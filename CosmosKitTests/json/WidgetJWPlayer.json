@@ -1,0 +1,55 @@
+{
+    "type":"jwplayer",
+    "data":{
+        "url":"https://content.jwplatform.com/previews/TB65QsSn-h5bP9bKQ",
+        "meta":{
+            "description":"This is a JWPlayer Video... we dont like JWPlayer (-(-_(>_<)_-)-)",
+            "title":"MoviePilot Customer Testimonial",
+            "url":"https://content.jwplatform.com/previews/TB65QsSn-h5bP9bKQ",
+            "html":"<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcontent.jwplatform.com%2Fpreviews%2FTB65QsSn-h5bP9bKQ&amp;key=ce5765a69808a231f3c0cc82724515f9\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+            "thumbnail_width":720,
+            "version":"1.0",
+            "thumbnail_height":406,
+            "type":"video",
+            "thumbnail":"https://assets-jpcust.jwpsrv.com/thumbs/TB65QsSn-720.jpg"
+        },
+        "id":"TB65QsSn-h5bP9bKQ",
+        "listing":{
+            "aggregate":false,
+            "image":{
+                "palette":[
+                           "#ffffff",
+                           "#f8fffe",
+                           "#1b4985",
+                           "#61b5f1",
+                           "#fffffc"
+                           ],
+                "description":"",
+                "created":1509611566000,
+                "blob_path":"/cosmos_stage_qa_images/11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+                "blob_key":"AMIfv94YvXjFNsqDeKEIRdsr7TKwLP5u72LpEzNhDTaYJdhA-BdJKr1vW-zpekuWDxl3kwesK_nUtF7b0bO8nUdkzEEOothnG-qCji40XYTtpsqQ5R7_eqzB4v5i6r_NG_Sf2qZu3nVVmSFrIBeE0NmDsaOt9J2g2pY2LdR8H0gR7U75mYZnpzmxxTjBxz47ZZ34Uj-WF_7z",
+                "average":"#b1cde5",
+                "author":"",
+                "filename":"11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+                "filepath":"//lh3.googleusercontent.com/15Z_Ev4h_CDJf_zHZJ3NSlfvrNYkMYRO2RqhFl93j_Il42Hu6Hcny2AxIvLOBKLbQB7FZnFyF_12jIMvnUGv3BiPiZw",
+                "width":720,
+                "state":"image 11578aa1063a83643aed1743cc3e4dbd9a8a5a33 was uploaded",
+                "version":1,
+                "focal_y":50,
+                "focal_x":50,
+                "key":"11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+                "blur":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAUFAwEFBQQFBQUGBwwIBwcHBw8GCwkFBQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwEBAggIDh4UERQeEhIeHh4eHh4eHh4SHh4eHh4eHh4eHh4eFR4eHh4eFR4eHh4eHh4VHh4VFR4eFR4eHv/AABEIAAkAEAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAHCP/EACkQAAAEAgcJAAAAAAAAAAAAAAECAwQFEgAGBxEUMTcICSIyUXR1sbT/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAIREAAQIFBQEAAAAAAAAAAAAAAQIhAwcxMnEABQYREgT/2gAMAwEAAhEDEQA/AKXizKMQ8lYIk8rmRtDWhhcuBO2C4rFuMxgEb8pQEKGFji1XXFoFZH8IRXxSK7siiiaOHMrCnBuBRYggGV/OYZjS39aJVvmjW214xX1Qcso0a3yHZH+Y1HfmB5JLXe4imIKUsALsV0JH64pMLZoaXB9Kck25pr//2Q==",
+                "keywords":[
+                
+                ],
+                "title":"",
+                "height":406,
+                "content_type":"image/jpeg"
+            },
+            "author":null,
+            "description":"This is a JWPlayer Video... we dont like JWPlayer (-(-_(>_<)_-)-)",
+            "title":"MoviePilot Customer Testimonial"
+        }
+    },
+    "id":"102108ab-d31a-5318-7b80-4b3f43f6530c"
+}

@@ -1,0 +1,17 @@
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+    this.page.remote_auth_s3  = "INJECT_AUTH";
+    this.page.api_key = "INJECT_API_KEY";
+    this.page.url = "INJECT_PAGEURL";
+    this.page.identifier = "INJECT_PAGEID";
+};
+(function() {
+ var d = document, s = d.createElement('script');
+ s.src = 'https://INJECT_SHORTNAME.disqus.com/embed.js';
+ 
+ s.setAttribute('data-timestamp', +new Date());
+ (d.head || d.body).appendChild(s);
+ })();
+</script>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ArticleGallery" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="412" height="280"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="F5F-UE-6e2" customClass="ArticleImage" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="0.0" width="412" height="280"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DZB-W9-tdB">
+                    <rect key="frame" x="360" y="16" width="36" height="36"/>
+                    <color key="backgroundColor" red="0.098039215690000001" green="0.098039215690000001" blue="0.098039215690000001" alpha="0.80000000000000004" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="36" id="Czc-pu-3aj"/>
+                        <constraint firstAttribute="height" constant="36" id="t7K-e7-yqs"/>
+                    </constraints>
+                    <connections>
+                        <action selector="didTapOpenGallery:" destination="iN0-l3-epB" eventType="touchUpInside" id="NvH-DW-nSF"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gallery" translatesAutoresizingMaskIntoConstraints="NO" id="Bmm-Qg-tbN">
+                    <rect key="frame" x="368" y="24" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="7Zw-Zv-wV1"/>
+                        <constraint firstAttribute="width" constant="20" id="fnz-jI-55Z"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="DZB-W9-tdB" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="16" id="D2E-27-LwP"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="DZB-W9-tdB" secondAttribute="trailing" constant="16" id="LEz-kR-LSc"/>
+                <constraint firstItem="F5F-UE-6e2" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Q5i-Z4-Py7"/>
+                <constraint firstItem="Bmm-Qg-tbN" firstAttribute="centerX" secondItem="DZB-W9-tdB" secondAttribute="centerX" id="ReH-SO-lzy"/>
+                <constraint firstItem="F5F-UE-6e2" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="bYI-ll-Jea"/>
+                <constraint firstItem="Bmm-Qg-tbN" firstAttribute="centerY" secondItem="DZB-W9-tdB" secondAttribute="centerY" id="lA9-Wo-weQ"/>
+                <constraint firstAttribute="bottom" secondItem="F5F-UE-6e2" secondAttribute="bottom" id="pcM-Ff-RKf"/>
+                <constraint firstItem="F5F-UE-6e2" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="wvu-7i-npV"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="baseImage" destination="F5F-UE-6e2" id="77K-6Z-jew"/>
+            </connections>
+            <point key="canvasLocation" x="53" y="-115"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="gallery" width="128" height="128"/>
+    </resources>
+</document>

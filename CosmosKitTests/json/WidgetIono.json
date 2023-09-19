@@ -1,0 +1,20 @@
+{
+"type": "iono",
+"data": {
+"provider_url": "http://iono.fm/",
+"version": "1.0",
+"title": "Sunday Times, 2 Feb LISTEN: Businessman tells of giving R1m to ANC Women's League",
+"type": "rich",
+"thumbnail_width": 128,
+"height": 135,
+"width": "100%",
+"html": "<iframe src=\"https://embed.iono.fm/epi/650751\" width=\"100%\" height=\"135\" frameborder=\"0\"><a href=\"http://iono.fm/e/650751\">Content hosted by iono.fm</a></iframe>",
+"author_name": "MultimediaLIVE",
+"provider_name": "iono.fm",
+"cache_age": 3600,
+"thumbnail_url": "https://static.iono.fm/files/p372/logo_20180911_122440_300.jpg",
+"thumbnail_height": 128,
+"author_url": "http://www.timeslive.co.za"
+},
+"id": "e63f1c40-f284-72fb-aca5-781558742834"
+}

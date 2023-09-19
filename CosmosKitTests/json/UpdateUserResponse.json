@@ -1,0 +1,27 @@
+{
+  "first_name": "Andreas",
+  "tel_number": "076666666",
+  "display_name": "Andreas von Holy",
+  "version": 1,
+  "created": 1531211666000,
+  "newsletters": [
+    1227
+  ],
+  "everlytic": {
+    "admin@tisoblackstar.co.za:Vw4CK1XecfPPqaMBu5AeFuM0zKwCudgA_8": {
+      "1227": "subscribed",
+      "1235": "unconfirmed",
+      "1236": "unconfirmed",
+      "1230": "unconfirmed",
+      "1231": "unconfirmed",
+      "1232": "unconfirmed",
+      "1233": "unconfirmed",
+      "1229": "unconfirmed",
+      "1228": "unconfirmed",
+      "1388": "unconfirmed"
+    }
+  },
+  "state": null,
+  "last_name": "von Holy",
+  "key": "andreas@flatcircle.io"
+}

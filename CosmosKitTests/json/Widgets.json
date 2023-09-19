@@ -1,0 +1,428 @@
+[{
+ "type": "image",
+ "data": {
+ "image": {
+ "palette": null,
+ "description": "Hyundai.   Picture: NEWSPRESS UK",
+ "created": 1495011088000,
+ "blob_path": "/bl_cosmos_images/62379c92e0b9232c9ec3364f01ed38e31e142872",
+ "blob_key": "AMIfv95jhrEKGfUKJFEZy0oW-dhvc7rRupicI-l5u6qg9J5wQMeIqVNJB4gfLKDTym9I6ysx9LNYMGHyP4ghxi0eBSCK7HNPvXYoj-iYKUiWChbafBvWD2UY5b0t1poz--uVA7kCEEH1auNvaYaIadBTT5FQorgKsSh5LzaXLhbLuwqalgY7-FM",
+ "average": null,
+ "author": "",
+ "filename": "62379c92e0b9232c9ec3364f01ed38e31e142872",
+ "filepath": "//lh3.googleusercontent.com/tNwInqU9Dn-U0aAVaFCURmj8SpbpxK3D1HtCAwjiAVgUYUAz3G-vdvIHEB9AxpqXJtbKU693ypA6rMYPvXTArz2kiYwCFl0oUg",
+ "width": 512,
+ "state": null,
+ "version": 5,
+ "focal_y": 50,
+ "focal_x": 50,
+ "key": "62379c92e0b9232c9ec3364f01ed38e31e142872",
+ "blur": null,
+ "keywords": null,
+ "title": "",
+ "height": 362,
+ "content_type": "image/jpeg"
+ },
+ "id": "62379c92e0b9232c9ec3364f01ed38e31e142872"
+ },
+ "id": "bf994868-c2d1-79c5-a418-92807456659a"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "Seoul \u2014 Elliott Management, which announced earlier in April that had it bought about $1bn in shares of units of Hyundai Motor Group, stepped up its pressure on the South Korean conglomerate by making demands ranging from higher dividends to restructuring the group under a holding company.\nElliott\u2019s proposals, which include combining Hyundai with Hyundai Mobis and raising dividends to as much as half of net income, have been relayed to the board of Hyundai Motor Group, it said. Group representatives weren\u2019t immediately available to comment.",
+ "html": "<p>Seoul &mdash; Elliott Management, which announced earlier in April that had it bought about $1bn in shares of units of Hyundai Motor Group, stepped up its pressure on the South Korean conglomerate by making demands ranging from higher dividends to restructuring the group under a holding company.</p>\n<p>Elliott&rsquo;s proposals, which include combining Hyundai with Hyundai Mobis and raising dividends to as much as half of net income, have been relayed to the board of Hyundai Motor Group, it said. Group representatives weren&rsquo;t immediately available to comment.</p>",
+ "clean": "<p>Seoul \u2014 Elliott Management, which announced earlier in April that had it bought about $1bn in shares of units of Hyundai Motor Group, stepped up its pressure on the South Korean conglomerate by making demands ranging from higher dividends to restructuring the group under a holding company.</p>\n<p>Elliott\u2019s proposals, which include combining Hyundai with Hyundai Mobis and raising dividends to as much as half of net income, have been relayed to the board of Hyundai Motor Group, it said. Group representatives weren\u2019t immediately available to comment.</p>"
+ },
+ "id": "7760bcaf710f10cdc20cf414bba082626f3dd038"
+ }, {
+ "type": "gallery",
+ "data": {
+ "images": [{
+            "content_type": "image/jpeg",
+            "blob_path": "/cosmos_stage_qa_images/9f6f5ddeb5a54c0525b2fe480e85040ded3d73fe",
+            "height": 178,
+            "keywords": null,
+            "guid": "fad65de8-8bdb-8a9d-46e5-4a6d0a83bf75",
+            "palette": ["#4e7b87", "#c4c166", "#3a3e3a", "#979d8f", "#339ad5"],
+            "author": "Doe",
+            "blob_key": "AMIfv971BWIA6RejXIGHqbe2e2TWUQ2Z_u_cgjFGkDnb8t9ap0iPWdCCJs0D7oFNlgj-M6-8gbkyM5CJy6VV_ECWPLj-8PXRba_htYJqvBsobVu0dreJXav9c-_L9YZYRt1gi4eUjH678tSdgefuPYk_q7bEfcfI14Q-Hd1rra_qN9b-muwLzdapNz7FYz85DMRX7EgVTHEl",
+            "filename": "9f6f5ddeb5a54c0525b2fe480e85040ded3d73fe",
+            "width": 283,
+            "state": "updated image 9f6f5ddeb5a54c0525b2fe480e85040ded3d73fe",
+            "version": 1,
+            "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEEAwUEBAEFBQUGBwwIBwcHAQ8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweGh4BBQUFAQYHDggIAh4IERQeHh4eHh4eHh4eHh4eHh4eHh4eHhISHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAAoAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBAP/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEBwAFBhIhMVFhERYiQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEAf/EACIRAAECAwkAAAAAAAAAAAAAAAECAwYIIgAFIVFhgZGhsf/aAAwDAQACEQMRAD8APyqu05WwOyWKiEkbBXia8Uaunr0LKxBA84qrVs4FSL3DlK17ozChOtXEp29Qvw2tx2PfscY5HlluJM7LyW/pHd925m0opLcffHOEhlltoJxPBb2kilB4dNJqGH6B5OK9fsyzrtMTBlOQTjuVKPQFhMw5L02iq5i6rUgDhKR7b//Z",
+            "description": "Mustard sports car",
+            "focal_y": 50,
+            "focal_x": 50,
+            "key": "9f6f5ddeb5a54c0525b2fe480e85040ded3d73fe",
+            "created": 1503320443000,
+            "average": "#5b8184",
+            "filepath": "//lh3.googleusercontent.com/Y3D2uYKldpJwY1a51MlYvH4cOtl0oryycLLijSTmW_tXpqKQbSgUG4kvXCnBMZDz2FyMTFQvjsKxUyyTX4DND53oKNur",
+            "title": "Jane",
+            "order": 0
+            }, {
+            "content_type": "image/jpeg",
+            "blob_path": "/cosmos_stage_qa_images/5137bbd23d3dbd1870e3d804f29927fbbd62c58d",
+            "height": 512,
+            "keywords": null,
+            "guid": "c61f21a5-853c-c120-0cb1-bb6abfc453a0",
+            "palette": ["#5672a1", "#3f5295", "#2c3d8e", "#9ab7d6", "#7394b6"],
+            "author": "Guy with camera",
+            "blob_key": "AMIfv9709X4-ZdQC94rO4HZbdxknIz1f24iyDSPF711L2pFD2PRp08nwkiG8DBaSP1cHeuYPLDarmYONHHMCgiL7UnpyTu6GGbCqrkSdKyvYiA_OOdD2XgsphsKfohwrExB0S2HCA1n-4XgEinNSwQkyHmgIzlDyS4afu0b5tkniIVwI9ql6LeJST_s2bIdoG-qCoOvovFvQ",
+            "filename": "5137bbd23d3dbd1870e3d804f29927fbbd62c58d",
+            "width": 341,
+            "state": "image 5137bbd23d3dbd1870e3d804f29927fbbd62c58d was uploaded",
+            "version": 1,
+            "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHhkeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eFf/AABEIABgAEAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAAGAQIDBAcA/8QAJBAAAgAGAAYDAAAAAAAAAAAAAQIAAwQFESEGEhMxUWEWQcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAH/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQIRIQAEEgMF8CIxUWHB/9oADAMBAAIRAxEAPwDL6OlxUSy4HKGBOfEPWibtjtBjbLLWiolvIo0muGBCTQQrbwQcb3nGvMTUnDVwdFM2WDMO2IGs+oWBrJFwUNDCfbmKKF6r2ydQEuSQzHswnxRP8juHTYi1yKNQm36DNg69+M/X5F6l4rubbk2BZXYhmpn5cH2TCR0Cit6vD1ZyaVE7VagY4wOfK//Z",
+            "description": "SKYHOOK:  Game ranger Gavin Shaw aids a black rhino getting  lifted by    helicopter in Great Fish River Nature Reserve in the Eastern Cape   Picture:  PETE OXFORD",
+            "focal_y": 50,
+            "focal_x": 50,
+            "key": "5137bbd23d3dbd1870e3d804f29927fbbd62c58d",
+            "created": 1499089182000,
+            "average": "#536ba3",
+            "filepath": "//lh3.googleusercontent.com/rALWmb4DdSFMz0VuuHODBNdqBod-LNkT082vdA4QpK9sQDz5p6Chd8W4oVl4LI-qurYDmv5yIv0MfLSsBVSyqWGEyzk",
+            "title": "Man holding Rhino",
+            "order": 1
+            }, {
+            "content_type": "image/jpeg",
+            "blob_path": "/cosmos_stage_qa_images/4d8a3c3168c5ec096f5f30f832fbff329ed38f67",
+            "height": 360,
+            "keywords": null,
+            "guid": "8bada805-0697-f3e4-6a08-352a902d975c",
+            "palette": ["#696c53", "#bbd5de", "#a6c6d5", "#313629", "#7d989a"],
+            "author": "Supplied",
+            "blob_key": "AMIfv97Fo1MXjsF4KcWJUwj6-xqP0y_I2NVhTdMQajB47PGa5ntQ7ltbjUX77stqZKbd4nN6zp9XBYy0q9NSw1dDEjKiq4Ov0Zno1Ht7h6fap00U0FAvCOFk_K2Fd1GN1NYsglztv5OByDU8ZRFgJpRfQPnGfNpoMQ5ZXAVOtiwETov8STrqK3nbamHiYZ-v3x14hVBqzLYY",
+            "filename": "4d8a3c3168c5ec096f5f30f832fbff329ed38f67",
+            "width": 512,
+            "state": "image 4d8a3c3168c5ec096f5f30f832fbff329ed38f67 was uploaded",
+            "version": 1,
+            "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFAQYHDggIDh4UERQeHh4eHh4eHh4eHhUeHh4eHh4eHh4eHh4eHhIVHh4eHh4eHh4eHh4VHh4eHh4SHh4eHv/AABEIAAsAEAMBIgACEQEDEQH/xAAWAAADAAAAAAAAAAAAAAAAAAAEBQf/xAAiEAACAgEDBAMAAAAAAAAAAAABAgMRBQAHIQQGUYEICUH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EAB4RAAEBCQAAAAAAAAAAAAAAAAIGAAEFERQxUXHh/9oADAMBAAIRAxEAPwBpke/vqwxc6JIk8zPRW0FEH95OgM3uF8VAJDgsDj8gl0DHM0z+eUVVK+6GpPmO5d7IepVI+uNMtG41JIvyReg0zu7jspbrpbZeSKF86g+Iq0gw/fGNTJ4StNv/2Q==",
+            "description": "The Toyota 86 has received a number of cosmetic changes to give it a more dynamic look",
+            "focal_y": 50,
+            "focal_x": 50,
+            "key": "4d8a3c3168c5ec096f5f30f832fbff329ed38f67",
+            "created": 1499088630000,
+            "average": "#73837d",
+            "filepath": "//lh3.googleusercontent.com/t1b0NhKqPfBj09JwZHxbXyiavwjl6zKzic-iMhkqYAoNtlO3IQ7RCLRlWPo71Ivmybf6OjLNgnuc_lLlWSOSYm64tmA",
+            "title": "",
+            "order": 2
+            }, {
+            "content_type": "image/jpeg",
+            "blob_path": "/cosmos_stage_qa_images/24db362a285a2a709b9cc55566a6b648eafce9b9",
+            "height": 341,
+            "keywords": null,
+            "guid": "5b0d15fe-2d1a-e7c6-38ce-04aa87e9effb",
+            "palette": ["#68725a", "#d8dedc", "#494834", "#23281f", "#8d998e"],
+            "author": "Supplied",
+            "blob_key": "AMIfv979MbQuhTVsvpWaoS7EIQjqXAPMse18wHPQXdq4MF-fwjXkLx0I45fQx2DZ6vfZEqTl__VsBkL_Ea_Gi417oncUd-YCj68hj-sc54mhsmYZlaBqFTlJZ9THEKAIkvycw-nZQED_p1MWAXmJkGCaNTqLKUsmLeC93ae5p7zjgZG9faajF83tr-j1ZeFNbeGV-sZHrdTJ",
+            "filename": "24db362a285a2a709b9cc55566a6b648eafce9b9",
+            "width": 512,
+            "state": "image 24db362a285a2a709b9cc55566a6b648eafce9b9 was uploaded",
+            "version": 1,
+            "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEBAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweJR4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eFR4eHh4eHh4eHh4eHhUeHh4eHv/AABEIAAsAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAFBgT/xAAkEAABAwMDBAMAAAAAAAAAAAABAgMEBQcRABITBiExQQgjgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACEYEDEiH/2gAMAwEAAhEDEQA/ADL512y3zNqtNmymZFFdQzwuFxrmS4AokbS3nGc4OdRkGDZ24DipFPor9SXESpJUGvocWSFJIwAR2GPfvWeFP6z6OeU3GkutJKdxAV5PfSdOq1yepUSA9NfPEnKCle0j9HnQRmaRDhajYzxf/9k=",
+            "description": "The rear gets a larger spoiler to enhance its sportscar appeal",
+            "focal_y": 50,
+            "focal_x": 50,
+            "key": "24db362a285a2a709b9cc55566a6b648eafce9b9",
+            "created": 1499088633000,
+            "average": "#626859",
+            "filepath": "//lh3.googleusercontent.com/U4oF8uAI2jGvrxLno2Qqj3fslnfjScK-1t1TB86KnaZghLzEFGEC7lIbA1zQXtLpxRry1IYsd5AcNVVuZdcpErsL_JuL",
+            "title": "",
+            "order": 3
+            }],
+ "style": "default"
+ },
+ "id": "4d60a108-4941-cb03-31e1-2e3910bf0129"
+ }, {
+ "type": "quote",
+ "data": {
+ "quote": "Look at some cars on the road",
+ "float": "left",
+ "cite": "Richard Hazelden (cite is optional, quote could just have a quote)"
+ },
+ "id": "0fcccea6-9bb6-97d8-5f17-46d968e50891"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.\nSinger\u2019s acquisition of stakes in three group units \u2014 those of Hyundai Motor, Kia and Hyundai Mobis \u2014 were announced earlier in April, marking his return to Korea. Three years ago, Singer launched a campaign for reforms at the nation\u2019s biggest conglomerate, Samsung, and narrowly lost in a proxy fight, while playing a key role in events that led to the impeachment of the country\u2019s president and the jailing of Samsung\u2019s de-facto leader.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>\n<p>Singer&rsquo;s acquisition of stakes in three group units &mdash; those of Hyundai Motor, Kia and Hyundai Mobis &mdash; were announced earlier in April, marking his return to Korea. Three years ago, Singer launched a campaign for reforms at the nation&rsquo;s biggest conglomerate, Samsung, and narrowly lost in a proxy fight, while playing a key role in events that led to the impeachment of the country&rsquo;s president and the jailing of Samsung&rsquo;s de-facto leader.</p>",
+ "clean": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>\n<p>Singer\u2019s acquisition of stakes in three group units \u2014 those of Hyundai Motor, Kia and Hyundai Mobis \u2014 were announced earlier in April, marking his return to Korea. Three years ago, Singer launched a campaign for reforms at the nation\u2019s biggest conglomerate, Samsung, and narrowly lost in a proxy fight, while playing a key role in events that led to the impeachment of the country\u2019s president and the jailing of Samsung\u2019s de-facto leader.</p>"
+ },
+ "id": "078b6c97-0d2b-9830-96ed-3ead53ca6ed6"
+ }, {
+ "type": "hr",
+ "data": {},
+ "id": "88fc8515-239f-1eb2-345c-fff0a41636e0"
+ }, {
+ "type": "infoblock",
+ "data": {
+ "float": "right",
+ "description": "<p>These are used to add some context to stories</p>",
+ "title": "This is a text Block"
+ },
+ "id": "35815309-83b1-b1b1-6365-8c15f57ad5f6"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.\nThe demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>\n<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>",
+ "clean": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>\n<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>"
+ },
+ "id": "2c830ad0-cd29-fe4a-24a0-e59e76016afe"
+ }, {
+ "type": "google_map",
+ "data": {
+ "routes": null,
+ "type": "roadmap",
+ "zoom": 16,
+ "coordinates": "-33.85468,18.50900999999999",
+ "address": "48 fairview crec milnerton"
+ },
+ "id": "d34414eb-717c-a54f-9f4f-aa8591d6ecb6"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>",
+ "clean": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>"
+ },
+ "id": "59a519af-ac01-c94f-d76e-03ea1097b6e0"
+ }, {
+ "type": "youtube",
+ "data": {
+ "url": "//youtu.be/6r1satMnqGU",
+ "pid": null,
+ "share_url": "//youtu.be/6r1satMnqGU",
+ "meta": {
+ "description": "\"A-Okay\" appears on Grieves' \"Running Wild\" available digitally, on CD, and on 2xLP white-colored vinyl. Purchase now: https://rse.lnk.to/RunningWild Subscribe for more: http://bit.ly/RhymesayersY...",
+ "title": "Grieves - A-Okay (Official Video)",
+ "published": "4 months ago",
+ "thumbnail_small_retina": "https://i.ytimg.com/vi/6r1satMnqGU/hqdefault.jpg",
+ "thumbnail": "https://i.ytimg.com/vi/6r1satMnqGU/hqdefault.jpg",
+ "channel": "Rhymesayers Entertainment",
+ "thumbnail_small": "https://i.ytimg.com/vi/6r1satMnqGU/default.jpg"
+ },
+ "listing": {
+ "aggregate": false,
+ "image": {
+ "palette": ["#242524", "#b59783", "#050404", "#000303", "#000000"],
+ "description": "\"A-Okay\" appears on Grieves' \"Running Wild\" available digitally, on CD, and on 2xLP white-colored vinyl. Purchase now: https://rse.lnk.to/RunningWild Subscribe for more: http://bit.ly/RhymesayersY...",
+ "created": 1524487887000,
+ "blob_path": "/cosmos_stage_qa_images/b8410532e3b27ecb3914bd70de289b3f38d7e86b",
+ "blob_key": "AMIfv94PLpvp0V5TUiDrONLLdJAhNYwmjzxMKwRU_tjZPE5UbfnUJ95JUGvr_op1EvPP34MisqnIfTyUd2DRTlfPbI7RAHUmXcEeMbwCEUEipoJSTNaUTqMZPSa-smBd6ot9luMI699mxMi4wW8qu9j4ts3EMw1KSzbAlDxyofP3R2KKQnSpEkX1hIDFtbYsJrnYhhNsFvw7",
+ "average": "#38302b",
+ "author": "",
+ "filename": "b8410532e3b27ecb3914bd70de289b3f38d7e86b",
+ "filepath": "//lh3.googleusercontent.com/deLqbF5v2tQ08JPlv4Y5JUyo-GCG0wrY5VwCIO2_79Tvqzy5dU55a0oqfB2oL1iNGNcv_phwIJzmzn8QbzIVG7Hc_27F",
+ "width": 480,
+ "state": "image b8410532e3b27ecb3914bd70de289b3f38d7e86b was uploaded",
+ "version": 1,
+ "focal_y": 50,
+ "focal_x": 50,
+ "key": "b8410532e3b27ecb3914bd70de289b3f38d7e86b",
+ "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQVHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eFR4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAAwAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAHBgP/xAAlEAABAwMDAwUAAAAAAAAAAAACAQMRBAUSAAZxBxNTFCIxMlL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABoeESMUH/2gAMAwEAAhEDEQA/AA5Ok9mB2mpKre1kp62pSQZJxwkFfyRIGKLzGqa3dFtoCj43DczDmLSdg2K8EU3JSckUfaMTESvxoJeudxey7ta+eX2yNVnnWPqX/KWiwNtFFpWMOjNL/9k=",
+ "keywords": [],
+ "title": "Grieves - A-Okay (Official Video)",
+ "height": 360,
+ "content_type": "image/jpeg"
+ },
+ "title": "Grieves - A-Okay (Official Video)",
+ "description": "\"A-Okay\" appears on Grieves' \"Running Wild\" available digitally, on CD, and on 2xLP white-colored vinyl. Purchase now: https://rse.lnk.to/RunningWild Subscribe for more: http://bit.ly/RhymesayersY...",
+ "author": "Rhymesayers Entertainment"
+ },
+ "id": "6r1satMnqGU"
+ },
+ "id": "a1514fe5-71db-1bf0-4881-602c01fe5330"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>",
+ "clean": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>"
+ },
+ "id": "7231f925-fbee-0c82-9fdc-0806d7e2d826"
+ }, {
+ "type": "jwplayer",
+ "data": {
+ "url": "https://content.jwplatform.com/previews/TB65QsSn-h5bP9bKQ",
+ "meta": {
+ "description": "This is a JWPlayer Video... we dont like JWPlayer (-(-_(>_<)_-)-)",
+ "title": "MoviePilot Customer Testimonial",
+ "url": "https://content.jwplatform.com/previews/TB65QsSn-h5bP9bKQ",
+ "html": "<div><div style=\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\"><iframe src=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcontent.jwplatform.com%2Fpreviews%2FTB65QsSn-h5bP9bKQ&amp;key=ce5765a69808a231f3c0cc82724515f9\" style=\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\" allowfullscreen scrolling=\"no\"></iframe></div></div>",
+ "thumbnail_width": 720,
+ "version": "1.0",
+ "thumbnail_height": 406,
+ "type": "video",
+ "thumbnail": "https://assets-jpcust.jwpsrv.com/thumbs/TB65QsSn-720.jpg"
+ },
+ "id": "TB65QsSn-h5bP9bKQ",
+ "listing": {
+ "aggregate": false,
+ "image": {
+ "palette": ["#ffffff", "#f8fffe", "#1b4985", "#61b5f1", "#fffffc"],
+ "description": "",
+ "created": 1509611566000,
+ "blob_path": "/cosmos_stage_qa_images/11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+ "blob_key": "AMIfv94YvXjFNsqDeKEIRdsr7TKwLP5u72LpEzNhDTaYJdhA-BdJKr1vW-zpekuWDxl3kwesK_nUtF7b0bO8nUdkzEEOothnG-qCji40XYTtpsqQ5R7_eqzB4v5i6r_NG_Sf2qZu3nVVmSFrIBeE0NmDsaOt9J2g2pY2LdR8H0gR7U75mYZnpzmxxTjBxz47ZZ34Uj-WF_7z",
+ "average": "#b1cde5",
+ "author": "",
+ "filename": "11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+ "filepath": "//lh3.googleusercontent.com/15Z_Ev4h_CDJf_zHZJ3NSlfvrNYkMYRO2RqhFl93j_Il42Hu6Hcny2AxIvLOBKLbQB7FZnFyF_12jIMvnUGv3BiPiZw",
+ "width": 720,
+ "state": "image 11578aa1063a83643aed1743cc3e4dbd9a8a5a33 was uploaded",
+ "version": 1,
+ "focal_y": 50,
+ "focal_x": 50,
+ "key": "11578aa1063a83643aed1743cc3e4dbd9a8a5a33",
+ "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAUFAwEFBQQFBQUGBwwIBwcHBw8GCwkFBQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwEBAggIDh4UERQeEhIeHh4eHh4eHh4SHh4eHh4eHh4eHh4eFR4eHh4eFR4eHh4eHh4VHh4VFR4eFR4eHv/AABEIAAkAEAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAHCP/EACkQAAAEAgcJAAAAAAAAAAAAAAECAwQFEgAGBxEUMTcICSIyUXR1sbT/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAIREAAQIFBQEAAAAAAAAAAAAAAQIhAwcxMnEABQYREgT/2gAMAwEAAhEDEQA/AKXizKMQ8lYIk8rmRtDWhhcuBO2C4rFuMxgEb8pQEKGFji1XXFoFZH8IRXxSK7siiiaOHMrCnBuBRYggGV/OYZjS39aJVvmjW214xX1Qcso0a3yHZH+Y1HfmB5JLXe4imIKUsALsV0JH64pMLZoaXB9Kck25pr//2Q==",
+ "keywords": [],
+ "title": "",
+ "height": 406,
+ "content_type": "image/jpeg"
+ },
+ "author": null,
+ "description": "This is a JWPlayer Video... we dont like JWPlayer (-(-_(>_<)_-)-)",
+ "title": "MoviePilot Customer Testimonial"
+ }
+ },
+ "id": "102108ab-d31a-5318-7b80-4b3f43f6530c"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world&rsquo;s most tenacious activist investors against Korea&rsquo;s second-largest business empire. For Hyundai&rsquo;s founding family, Elliott founder Paul Singer&rsquo;s investment comes at a tricky time as the group&rsquo;s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>",
+ "clean": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>"
+ },
+ "id": "c65e8ce2-e6dd-496e-80a7-badb80210022"
+ }, {
+ "type": "tweet",
+ "data": {
+ "url": "https://twitter.com/WIRED/status/707826078891577344",
+ "meta": {
+ "provider_url": "https://twitter.com",
+ "url": "https://twitter.com/WIRED/status/707826078891577344",
+ "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Las Vegas utilities really don\u2019t want the strip to go solar <a href=\"https://t.co/IuQUJHdEje\">https://t.co/IuQUJHdEje</a> <a href=\"https://t.co/pSoCj5kJe1\">pic.twitter.com/pSoCj5kJe1</a></p>&mdash; WIRED (@WIRED) <a href=\"https://twitter.com/WIRED/status/707826078891577344?ref_src=twsrc%5Etfw\">March 10, 2016</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+ "author_name": "WIRED",
+ "width": 550,
+ "version": "1.0",
+ "author_url": "https://twitter.com/WIRED",
+ "provider_name": "Twitter"
+ }
+ },
+ "id": "46195f8f-4e11-6cb5-a5a9-de99db1af124"
+ }, {
+ "type": "text",
+ "data": {
+ "text": "The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.",
+ "html": "<p>The demands signal the beginning of what could evolve into a contest pitting one of the world\u2019s most tenacious activist investors against Korea\u2019s second-largest business empire. For Hyundai\u2019s founding family, Elliott founder Paul Singer\u2019s investment comes at a tricky time as the group\u2019s 80-year-old patriarch, Chung Mong-koo, prepares to hand over control of the conglomerate to his son.</p>"
+ },
+ "id": "a8302bcc-1825-eaa7-c508-ffd1758166f3"
+ }, {
+ "type": "related_articles",
+ "data": {
+ "article_ids": [5111119798599680, 5703274724327424, 5759522421342208],
+ "meta": {
+ "style": "image",
+ "description": "",
+ "title": "Read Some other stuff"
+ }
+ },
+ "id": "e1543ba9-62d8-e707-57a8-6250d291ddfc"
+ }, {
+ "type": "facebook_post",
+ "data": {
+ "url": "https://www.facebook.com/thecodinglove/posts/587630088063200",
+ "meta": {
+ "provider_url": "https://www.facebook.com",
+ "success": true,
+ "url": "https://www.facebook.com/thecodinglove/posts/587630088063200",
+ "html": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script><div class=\"fb-post\" data-href=\"https://www.facebook.com/thecodinglove/posts/587630088063200\" data-width=\"552\"><blockquote cite=\"https://www.facebook.com/thecodinglove/posts/587630088063200\" class=\"fb-xfbml-parse-ignore\"><p>When the demo doesn&#039;t go as expected</p>Posted by <a href=\"https://www.facebook.com/thecodinglove/\">The coding love</a> on&nbsp;<a href=\"https://www.facebook.com/thecodinglove/posts/587630088063200\">Thursday, March 10, 2016</a></blockquote></div>",
+ "author_name": "The coding love",
+ "height": null,
+ "width": 552,
+ "version": "1.0",
+ "author_url": "https://www.facebook.com/thecodinglove/",
+ "provider_name": "Facebook"
+ }
+ },
+ "id": "6eb4e999-2b81-9b92-c7de-d76293d274f1"
+ }, {
+ "type": "facebook_video",
+ "data": {
+ "url": "https://www.facebook.com/facebook/videos/1571341899583087",
+ "meta": {
+ "provider_url": "https://www.facebook.com",
+ "success": true,
+ "author_name": "Diply Trending",
+ "height": 280,
+ "width": 500,
+ "html": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script><div class=\"fb-video\" data-href=\"https://www.facebook.com/facebook/videos/1571341899583087\"><blockquote cite=\"https://www.facebook.com/diplytrending/videos/1571341899583087/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/diplytrending/videos/1571341899583087/\"></a><p>This cat looks so bored! :3 :3 :3 #diply\n- via JukinMedia</p>Posted by <a href=\"https://www.facebook.com/diplytrending/\">Diply Trending</a> on Tuesday, March 1, 2016</blockquote></div>",
+ "author_url": "https://www.facebook.com/diplytrending/",
+ "provider_name": "Facebook"
+ },
+ "listing": {
+ "aggregate": false,
+ "image": {
+ "palette": ["#7a5d39", "#decebc", "#534b3d", "#31200f", "#9b8763"],
+ "description": "",
+ "created": 1500357789000,
+ "blob_path": "/cosmos_stage_qa_images/421987176894fa57dc51247290aa7633b0f4ffa4",
+ "blob_key": "AMIfv96l2mDcf7FTm7Q4EqpDMgiQtXWGVsuPcCDBEro3-TN6yXLegVkoQqLvdSU4brUwU-3H61MOlqfKYcGycF18jWtWMguIdgo_aEvz_5Hault92uc5w3uST0K6PDp-MbEgRJzef7g4H7_ZMAde8CC_aixMKYnpQ3FZNtfELmj5cM0NT-jw7zLFKKEZm9RNe1Ah8FUCisox",
+ "average": "#85735b",
+ "author": "",
+ "filename": "421987176894fa57dc51247290aa7633b0f4ffa4",
+ "filepath": "//lh3.googleusercontent.com/fWQeTg1Pmut6l3sUcbe8PnqH1mO3x9eV5VdOn7a4j_lxzrFlMWn-zOws0awCl49nW-EGqUNxfj6aSabGPu7X7oTDZCDK",
+ "width": 227,
+ "state": "image 421987176894fa57dc51247290aa7633b0f4ffa4 was uploaded",
+ "version": 1,
+ "focal_y": 50,
+ "focal_x": 50,
+ "key": "421987176894fa57dc51247290aa7633b0f4ffa4",
+ "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAUEAwEEBAUFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERHCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHhIeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHhUeHh4eHhUeHh4eHh4eHh4eHh4eHhIeHv/AABEIAAkAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBQP/xAAkEAABAgUDBQEAAAAAAAAAAAACAQMEBQYHEQAhchI2QbGzMf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQEAAgMAAAAAAAAAAAAAAAABESEAAgP/2gAMAwEAAhEDEQA/AM73UvEFX1TxbkRDtszBkeowLYCQUEs5TAoq+d1xvjUq2hzGpWrvtymSzQZTCoiC+Am5DuuouFQFUU36f3GkVp2fWHA/WgWn7BsXxL6LoiHo24jAa1n/2Q==",
+ "keywords": [],
+ "title": "This cat looks so bored! :3 :3 :3 #diply\n- via JukinMedia",
+ "height": 128,
+ "content_type": "image/jpeg"
+ },
+ "description": null,
+ "author": null
+ }
+ },
+ "id": "39edeeef-0d14-5c2d-d4c7-65d52788db06"
+ }, {
+ "type": "instagram",
+ "data": {
+ "url": "https://www.instagram.com/p/BC_VQLhubaJ/?taken-by=earthpix",
+ "meta": {
+ "provider_url": "https://www.instagram.com",
+ "media_id": "1206776696023922313_303273692",
+ "title": "Morning lights up the Golden Gate Bridge | Photo by @tobyharriman",
+ "author_name": "earthpix",
+ "width": 658,
+ "html": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BC_VQLhubaJ/\" data-instgrm-version=\"8\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:8px;\"> <div style=\" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;\"> <div style=\" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;\"></div></div> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BC_VQLhubaJ/\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Morning lights up the Golden Gate Bridge | Photo by @tobyharriman</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/earthpix/\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> \ud83c\udf0e  Earthpix  \ud83c\udf0e</a> (@earthpix) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2016-03-15T21:56:54+00:00\">Mar 15, 2016 at 2:56pm PDT</time></p></div></blockquote>\n<script async defer src=\"//www.instagram.com/embed.js\"></script>",
+ "author_url": "https://www.instagram.com/earthpix",
+ "author_id": 303273692,
+ "thumbnail_url": "https://scontent-jnb1-1.cdninstagram.com/vp/185c89b24a0307fa420db18f100576cd/5B6826D2/t51.2885-15/s640x640/sh0.08/e35/12328232_485949524935569_278795999_n.jpg",
+ "provider_name": "Instagram"
+ }
+ },
+ "id": "82d1cda4-72f2-24cd-8459-7adff47b8efb"
+ }, {
+ "type": "iframely",
+ "data": {
+ "url": "https://www.timeslive.co.za/sebenza-live/features/2018-02-26-farm-child-reaps-the-fruits-of-his-labour/",
+ "meta": {
+ "description": "Denzel Swartz was destined to work as a labourer on a wine farm but he rose through the ranks to get his dream job.",
+ "title": "'Farm child' reaps the fruits of his labour",
+ "url": "https://www.timeslive.co.za/sebenza-live/features/2018-02-26-farm-child-reaps-the-fruits-of-his-labour/",
+ "type": "rich",
+ "html": "<div class=\"iframely-embed\"><div class=\"iframely-responsive\" style=\"padding-bottom: 66.6001%; padding-top: 120px;\"><a href=\"https://www.timeslive.co.za/sebenza-live/features/2018-02-26-farm-child-reaps-the-fruits-of-his-labour/\" data-iframely-url=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.timeslive.co.za%2Fsebenza-live%2Ffeatures%2F2018-02-26-farm-child-reaps-the-fruits-of-his-labour%2F&amp;key=ce5765a69808a231f3c0cc82724515f9\">&apos;Farm child&apos; reaps the fruits of his labour</a></div></div><script async src=\"//cdn.iframe.ly/embed.js\" charset=\"utf-8\"></script>",
+ "thumbnail_width": 1000,
+ "version": "1.0",
+ "thumbnail_height": 666,
+ "thumbnail_url": "https://lh3.googleusercontent.com/XeLMFBjznYS9UkdOOinmihVnb8lZNVSpp4tdviTtWU0L33I_JM7-c9kleqfUZR_gOpJfty8SMgoUps9bQPEcEmc=s1000"
+ }
+ },
+ "id": "7bd7ced8-543a-7661-4265-7e1338e93280"
+ }]

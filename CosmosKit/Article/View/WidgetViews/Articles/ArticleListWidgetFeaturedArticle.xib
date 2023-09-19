@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iN0-l3-epB" customClass="ArticleListWidgetFeaturedArticle" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="230"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vXj-XP-yVm">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="230"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="230" id="7bu-Rr-VxS"/>
+                    </constraints>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ZoC-bI-doX">
+                    <rect key="frame" x="16" y="16" width="24" height="24"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="24" id="5xf-bA-ITO"/>
+                        <constraint firstAttribute="width" constant="24" id="9No-Qm-eoQ"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="V2A-PO-oX0" customClass="ArticleListFeaturedTitleLabel" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="16" y="193.5" width="343" height="20.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="zbu-xH-C6w">
+                    <rect key="frame" x="16" y="180.5" width="127.5" height="13"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dY1-Ms-CPg" customClass="ArticleListFeaturedSectionLabel" customModule="CosmosKit" customModuleProvider="target">
+                            <rect key="frame" x="0.0" y="0.0" width="41.5" height="13"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="7mL-zf-2gp">
+                            <rect key="frame" x="49.5" y="0.0" width="78" height="13"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="13" id="cJ5-O7-yaq"/>
+                                <constraint firstAttribute="width" constant="78" id="uq7-xl-3go"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="zbu-xH-C6w" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="8LL-5H-kEp"/>
+                <constraint firstItem="ZoC-bI-doX" firstAttribute="leading" secondItem="vXj-XP-yVm" secondAttribute="leading" constant="16" id="Il4-44-00W"/>
+                <constraint firstItem="vXj-XP-yVm" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="JJr-3q-bNZ"/>
+                <constraint firstItem="vXj-XP-yVm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="NAQ-Gq-Cn3"/>
+                <constraint firstItem="V2A-PO-oX0" firstAttribute="top" secondItem="zbu-xH-C6w" secondAttribute="bottom" id="PsV-ho-JON"/>
+                <constraint firstAttribute="trailing" secondItem="vXj-XP-yVm" secondAttribute="trailing" id="Tjm-Zg-7Lp"/>
+                <constraint firstAttribute="bottom" secondItem="vXj-XP-yVm" secondAttribute="bottom" id="amu-QV-I7A"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="V2A-PO-oX0" secondAttribute="trailing" constant="16" id="erB-O1-xH9"/>
+                <constraint firstItem="V2A-PO-oX0" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="gvV-lg-gaJ"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="V2A-PO-oX0" secondAttribute="bottom" constant="16" id="ohb-NO-fBu"/>
+                <constraint firstItem="ZoC-bI-doX" firstAttribute="top" secondItem="vXj-XP-yVm" secondAttribute="top" constant="16" id="uV3-gf-MBV"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="articleImage" destination="vXj-XP-yVm" id="82j-lt-4bz"/>
+                <outlet property="articleSection" destination="dY1-Ms-CPg" id="7yy-br-eYH"/>
+                <outlet property="articleTitle" destination="V2A-PO-oX0" id="X6C-7V-kbn"/>
+                <outlet property="coBrandImage" destination="7mL-zf-2gp" id="i0g-7F-2xA"/>
+                <outlet property="videoIcon" destination="ZoC-bI-doX" id="H5w-Sm-BE0"/>
+            </connections>
+            <point key="canvasLocation" x="136.23188405797103" y="241.40625"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,11 @@
+{
+    "type":"google_map",
+    "data":{
+        "routes":null,
+        "type":"roadmap",
+        "zoom":16,
+        "coordinates":"-33.85468,18.50900999999999",
+        "address":"48 fairview crec milnerton"
+    },
+    "id":"d34414eb-717c-a54f-9f4f-aa8591d6ecb6"
+}

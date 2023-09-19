@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ArticleRelated" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="539" height="161"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="LfY-sn-3xt">
+                    <rect key="frame" x="28" y="15" width="483" height="131"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="fDj-Oa-UDZ">
+                            <rect key="frame" x="0.0" y="0.0" width="483" height="35"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4P0-lg-Uas" customClass="RelatedArticleSection" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="31" height="14.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption1"/>
+                                    <color key="textColor" red="0.84313725490000002" green="0.40784313729999999" blue="0.25882352939999997" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sC7-Np-0ea" customClass="RelatedArticleTitle" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="14.5" width="41.5" height="20.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="XxY-fF-lbz">
+                            <rect key="frame" x="0.0" y="50" width="483" height="81"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="4ma-t5-8e1">
+                                    <rect key="frame" x="0.0" y="0.0" width="81" height="81"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" secondItem="4ma-t5-8e1" secondAttribute="height" multiplier="1:1" id="jcH-3X-yoE"/>
+                                        <constraint firstAttribute="height" constant="81" id="xUN-Lk-lgO"/>
+                                    </constraints>
+                                </imageView>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="88T-6L-sq6">
+                                    <rect key="frame" x="81" y="0.0" width="402" height="81"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" minimumScaleFactor="1" translatesAutoresizingMaskIntoConstraints="NO" id="5te-hB-oj4" customClass="RelatedArticleSummary" customModule="CosmosKit" customModuleProvider="target">
+                                            <rect key="frame" x="10" y="0.0" width="384" height="20.5"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="1000" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gK8-cN-4Mx" customClass="RelatedArticleDate" customModule="CosmosKit" customModuleProvider="target">
+                                            <rect key="frame" x="10" y="25.5" width="41.5" height="20.5"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="gK8-cN-4Mx" firstAttribute="top" secondItem="5te-hB-oj4" secondAttribute="bottom" constant="5" id="5gY-q5-u7d"/>
+                                        <constraint firstItem="gK8-cN-4Mx" firstAttribute="leading" secondItem="5te-hB-oj4" secondAttribute="leading" id="F5y-Br-tHB"/>
+                                        <constraint firstItem="5te-hB-oj4" firstAttribute="leading" secondItem="88T-6L-sq6" secondAttribute="leading" constant="10" id="Gk8-oL-Vrw"/>
+                                        <constraint firstItem="5te-hB-oj4" firstAttribute="top" secondItem="88T-6L-sq6" secondAttribute="top" id="MVr-jb-0Zz"/>
+                                        <constraint firstAttribute="trailingMargin" secondItem="5te-hB-oj4" secondAttribute="trailing" id="kr8-ww-U9Q"/>
+                                        <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="gK8-cN-4Mx" secondAttribute="bottom" id="sO7-xc-TLU"/>
+                                    </constraints>
+                                </view>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <viewLayoutGuide key="safeArea" id="kdW-hS-nIk"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="fDj-Oa-UDZ" secondAttribute="trailing" id="LTK-Xv-pBt"/>
+                        <constraint firstItem="XxY-fF-lbz" firstAttribute="trailing" secondItem="fDj-Oa-UDZ" secondAttribute="trailing" id="Thc-Ie-fpS"/>
+                    </constraints>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" red="0.93333333333333335" green="0.93333333333333335" blue="0.93333333333333335" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="LfY-sn-3xt" secondAttribute="bottom" constant="15" id="1QW-wg-FbM"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="top" secondItem="LfY-sn-3xt" secondAttribute="top" constant="-15" id="B8c-nj-PxP"/>
+                <constraint firstAttribute="trailingMargin" secondItem="LfY-sn-3xt" secondAttribute="trailing" constant="8" id="YRN-aW-kRF"/>
+                <constraint firstItem="LfY-sn-3xt" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leadingMargin" constant="8" id="z9z-82-PYI"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="articleDate" destination="gK8-cN-4Mx" id="uuA-vY-gdD"/>
+                <outlet property="articleImage" destination="4ma-t5-8e1" id="l9r-Fx-0z2"/>
+                <outlet property="articleSection" destination="4P0-lg-Uas" id="SMA-Lh-Cvp"/>
+                <outlet property="articleSummary" destination="5te-hB-oj4" id="O6U-Bk-c7w"/>
+                <outlet property="articleTitle" destination="sC7-Np-0ea" id="2ZA-uR-uoW"/>
+            </connections>
+            <point key="canvasLocation" x="120.5" y="-90"/>
+        </view>
+    </objects>
+</document>

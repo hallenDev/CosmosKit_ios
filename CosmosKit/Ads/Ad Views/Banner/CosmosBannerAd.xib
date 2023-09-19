@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CosmosBannerAd" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="381" height="250"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="whe-2Q-hkl" customClass="GAMBannerView">
+                    <rect key="frame" x="40.5" y="0.0" width="300" height="250"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="250" id="2ba-gW-NS2"/>
+                        <constraint firstAttribute="width" constant="300" id="eWZ-Lo-ejL"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="whe-2Q-hkl" secondAttribute="bottom" id="LT4-ue-1kQ"/>
+                <constraint firstItem="whe-2Q-hkl" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="ccR-38-6ZN"/>
+                <constraint firstItem="whe-2Q-hkl" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="fXO-UB-NAv"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="banner" destination="whe-2Q-hkl" id="rYc-vf-5fU"/>
+                <outlet property="bannerHeightConstraint" destination="2ba-gW-NS2" id="Bza-8T-coo"/>
+                <outlet property="bannerWidthConstraint" destination="eWZ-Lo-ejL" id="3IJ-PK-TQU"/>
+            </connections>
+            <point key="canvasLocation" x="133.59999999999999" y="-38.680659670164921"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,36 @@
+{
+    "url_key": "news",
+    "sections": [
+                 {
+                 "url_key": "south-africa",
+                 "id": "south-africa",
+                 "name": "South Africa"
+                 },
+                 {
+                 "url_key": "africa",
+                 "id": "africa",
+                 "name": "Africa"
+                 },
+                 {
+                 "url_key": "world",
+                 "id": "world",
+                 "name": "World"
+                 },
+                 {
+                 "url_key": "consumer-live",
+                 "id": "consumer-live",
+                 "name": "Consumer Live"
+                 },
+                 {
+                 "url_key": "sci-tech",
+                 "id": "sci-tech",
+                 "name": "Sci-Tech"
+                 },
+                 {
+                 "link": "/group/Gupta_Emails_Revealed/",
+                 "name": "Gupta Emails"
+                 }
+                 ],
+    "id": "news",
+    "name": "News"
+    }

@@ -1,0 +1,17 @@
+{
+    "type": "tweet",
+    "data": {
+        "url": "https://twitter.com/WIRED/status/707826078891577344",
+        "meta": {
+            "provider_url": "https://twitter.com",
+            "url": "https://twitter.com/WIRED/status/707826078891577344",
+            "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Las Vegas utilities really don\u2019t want the strip to go solar <a href=\"https://t.co/IuQUJHdEje\">https://t.co/IuQUJHdEje</a> <a href=\"https://t.co/pSoCj5kJe1\">pic.twitter.com/pSoCj5kJe1</a></p>&mdash; WIRED (@WIRED) <a href=\"https://twitter.com/WIRED/status/707826078891577344?ref_src=twsrc%5Etfw\">March 10, 2016</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "author_name": "WIRED",
+            "width": 550,
+            "version": "1.0",
+            "author_url": "https://twitter.com/WIRED",
+            "provider_name": "Twitter"
+        }
+    },
+    "id": "46195f8f-4e11-6cb5-a5a9-de99db1af124"
+}

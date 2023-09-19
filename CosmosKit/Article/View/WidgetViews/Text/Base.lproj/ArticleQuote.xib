@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ArticleQuote" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="107"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rUL-ol-m5o" customClass="QuoteTopLine" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="19" y="0.0" width="337.5" height="3"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="3" id="Xnh-PA-4Vw"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pzr-al-LBy" customClass="QuoteTextLabel" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="27" y="19" width="321" height="20.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gOV-Qy-zlk" customClass="QuoteAuthorLabel" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="27" y="59.5" width="321" height="30.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vnt-Kf-vqQ" customClass="QuoteBottomLine" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="19" y="106" width="337.5" height="1"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="7nc-7M-szh"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="Pzr-al-LBy" firstAttribute="top" secondItem="rUL-ol-m5o" secondAttribute="bottom" constant="16" id="3gF-Md-RcR"/>
+                <constraint firstItem="Pzr-al-LBy" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="7uX-Yh-4QE"/>
+                <constraint firstItem="vnt-Kf-vqQ" firstAttribute="width" secondItem="rUL-ol-m5o" secondAttribute="width" id="Bdk-ST-HfO"/>
+                <constraint firstItem="gOV-Qy-zlk" firstAttribute="top" secondItem="Pzr-al-LBy" secondAttribute="bottom" constant="20" id="DAA-5d-eD6"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="vnt-Kf-vqQ" secondAttribute="bottom" id="IAa-p5-d6c"/>
+                <constraint firstItem="rUL-ol-m5o" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="QqR-FS-Soy"/>
+                <constraint firstItem="rUL-ol-m5o" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.9" id="W9p-EE-uEQ"/>
+                <constraint firstItem="gOV-Qy-zlk" firstAttribute="width" secondItem="Pzr-al-LBy" secondAttribute="width" id="bNn-ld-vRZ"/>
+                <constraint firstItem="vnt-Kf-vqQ" firstAttribute="top" secondItem="gOV-Qy-zlk" secondAttribute="bottom" constant="16" id="dJL-KX-j4p"/>
+                <constraint firstItem="vnt-Kf-vqQ" firstAttribute="centerX" secondItem="rUL-ol-m5o" secondAttribute="centerX" id="keA-0h-aP2"/>
+                <constraint firstItem="Pzr-al-LBy" firstAttribute="width" secondItem="rUL-ol-m5o" secondAttribute="width" multiplier="0.95" id="oy2-7M-BGN"/>
+                <constraint firstItem="gOV-Qy-zlk" firstAttribute="centerX" secondItem="Pzr-al-LBy" secondAttribute="centerX" id="rnr-Q2-OfT"/>
+                <constraint firstItem="rUL-ol-m5o" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="topMargin" id="s1G-Q4-Leq"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="author" destination="gOV-Qy-zlk" id="kzv-kv-CgU"/>
+                <outlet property="bottomLine" destination="vnt-Kf-vqQ" id="a9Z-kZ-0KH"/>
+                <outlet property="quote" destination="Pzr-al-LBy" id="82e-bz-GJV"/>
+                <outlet property="topLine" destination="rUL-ol-m5o" id="BGX-EV-53h"/>
+            </connections>
+            <point key="canvasLocation" x="95.200000000000003" y="-159.67016491754123"/>
+        </view>
+    </objects>
+</document>

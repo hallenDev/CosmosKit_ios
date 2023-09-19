@@ -1,0 +1,9 @@
+{
+    "type": "quote",
+    "data": {
+        "quote": "Look at some cars on the road",
+        "float": "left",
+        "cite": "Richard Hazelden (cite is optional, quote could just have a quote)"
+    },
+    "id": "0fcccea6-9bb6-97d8-5f17-46d968e50891"
+}

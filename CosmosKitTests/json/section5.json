@@ -1,0 +1,31 @@
+{
+    "id" : "news",
+    "name" : "News",
+    "sections" : [
+        {
+            "id" : "south-africa",
+            "name" : "South Africa"
+        },
+        {
+            "id" : "africa",
+            "name" : "Africa"
+        },
+        {
+            "id" : "world",
+            "name" : "World"
+        },
+        {
+            "id" : "consumer-live",
+            "name" : "Consumer Live"
+        },
+        {
+            "id" : "sci-tech",
+            "name" : "Sci-Tech"
+        },
+        {
+            "name" : "State Capture",
+            "link" : "/group/State_Capture",
+            "hideInApp" : true
+        }
+    ]
+}

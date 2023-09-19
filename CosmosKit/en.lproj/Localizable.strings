@@ -1,0 +1,95 @@
+// MARK: Errors
+"errorIncorrectEmailOrPassword" = "You have provided an incorrect email address or password.";
+"errorIncorrectEmailTryRegister" = "You have provided an incorrect email address. Try again, or register a new account.";
+"errorIncorrectEmailOrPasswordTryRegisterReset" = "You have provided an incorrect email address or password. Try again, register a new account or reset your password.";
+"errorInvalidEmail" = "Please enter a valid email address.";
+"errorInvalidEmailTryAgain" = "You have entered an invalid email address. Please try again.";
+"errorNetwork" = "Network problem. Please check your internet connection and try again";
+"errorGeneric" = "Looks like something went wrong. The team will look into this ASAP.";
+"errorActivationRequired" = "Account activation required. An email has been sent to your inbox.";
+"errorAccountTaken" = "There is already an account for that email address. Click \'SIGN IN\' or reset your password.";
+"errorInvalidEmailOrPassword" = "Please enter a valid email address and password.";
+
+// MARK: Other
+"minutesRead" = "min read";
+"byWithSpace" = "by ";
+"and" = "and";
+"textSizeExample" = "Normal Article Text Size<p><strong>Bold Article Text Size</strong><p><em>Italic Article Text Size</em>";
+"imageMissing" = "Missing";
+"imageNotAvailable" = "Image not available";
+"verifyEmailSent" = "We’ve sent you an email to verify the address provided.";
+"termsAndConditionsLowercase" = "terms and conditions";
+"privacyPolicyLowercase" = "privacy policy";
+"termsPart1" = "Use of this app constitutes acceptance of our";
+"articles" = "articles";
+"pastEditionsCleared" = "All Past Editions have been cleared";
+"enterSearchTerm" = "Please enter a search term";
+"turnOnAlerts" = "Want news alerts?";
+"registerText1" = "Once you’ve registered, you can comment on our articles and pick the email newsletters you’d like to receive.";
+"registerText2" = "Already registered on TimesLIVE, BusinessLIVE or SowetanLIVE? Sign in with the same details.";
+"registerText3" = "Use your email address to register. We’ll then email you to activate your account.";
+"registerText4" = "Already have an account?";
+"loginText2" = "Don't have an account?";
+"loginText3" = "Forgot your";
+"loginText4" = "PASSWORD?";
+"forgotPwdText1" = "No problem. We'll email you instructions to reset your password.";
+"forgotPwdText2" = "Return to";
+
+// MARK: Widgets
+"widgetTwitter" = "Tweet";
+"widgetWebContent" = "Web Content";
+"widgetGoogleMap" = "Google Map";
+"widgetPodcast" = "Podcast";
+"widgetCrossword" = "Crossword";
+"widgetContent" = "Content";
+"playPuzzle" = "Play Puzzle";
+
+// MARK: Titles/Commands/Button Titles
+"deleteAccount" = "Delete Account";
+"logout" = "Logout";
+"name" = "Name";
+"surname" = "Surname";
+"email" = "Email";
+"emailAddress" = "Email Address";
+"password" = "Password";
+"noResult" = "No Result";
+"noResultTryAgain" = "No results found for your request. Please try again later.";
+"ok" = "Ok";
+"yes" = "Yes";
+"no" = "No";
+"readEdition" = "Read Edition";
+"resetPassword" = "Reset Password";
+"resetMyPassword" = "Reset My Password";
+"forgotPassword" = "Forgot Password";
+"register" = "Register";
+"signIn" = "Sign In";
+"profile" = "Profile";
+"pushNotifications" = "Push Notifications";
+"manageNotifications" = "Manage Notifications";
+"manageNewsletters" = "Manage Newsletters";
+"reviewApp" = "Review this App";
+"clearAllEditions" = "Clear All Editions";
+"contactUs" = "Contact Us";
+"aboutAndContactUs" = "About & Contact Us";
+"termsOfService" = "Terms of Service";
+"privacyPolicyCapitalised" = "Privacy Policy";
+"appVersion" = "App Version";
+"fontSettings" = "Text Size Settings";
+"success" = "Success";
+"account" = "Account";
+"aboutUs" = "About Us";
+"about" = "About";
+"general" = "General";
+"specialReport" = "special report";
+"cancel" = "Cancel";
+"preview" = "Preview";
+"articleTextSize" = "Article Text Size";
+"done" = "Done";
+"reload" = "Reload";
+
+// MARK: View Headings
+"headingBookmarks" = "Bookmarks";
+"headingSections" = "Sections";
+"headingPastEditions" = "Past Editions";
+"headingAuthors" = "Authors";
+"headingSettings" = "Settings";

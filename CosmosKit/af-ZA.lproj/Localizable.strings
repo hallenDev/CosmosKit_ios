@@ -1,0 +1,95 @@
+// MARK: Errors
+"errorIncorrectEmailOrPassword" = "Die e-posadres of wagwoord wat jy verskaf het is nie geldig nie.";
+"errorIncorrectEmailTryRegister" = "Die e-posadres wat jy verskaf het is nie geldig nie. Probeer weer of registreer om 'n nuwe rekening te skep.";
+"errorIncorrectEmailOrPasswordTryRegisterReset" = "Die e-posadres of wagwoord wat jy verskaf het is nie geldig nie. Probeer weer, registreer om 'n nuwe rekening te skep of verander jou wagwoord.";
+"errorInvalidEmail" = "Verskaf asseblief 'n geldige e-posadres en wagwoord.";
+"errorInvalidEmailTryAgain" = "Die e-posadres wat jy verskaf het is nie geldig nie. Probeer weer.";
+"errorNetwork" = "Kan nie aan 'n netwerk skakel nie. Maak seker jou internetkonneksie is aktief en probeer weer.";
+"errorGeneric" = "Dit lyk asof iets verkeerd geloop het. Die span sal dit spoedig ondersoek.";
+"errorActivationRequired" = "Om jou rekening te bevestig het ons 'n e-pos gestuur na jou e-posadres.";
+"errorAccountTaken" = "Daar is reeds 'n rekening vir daardie e-posadres. Kliek 'MELD AAN' of verander jou wagwoord.";
+"errorInvalidEmailOrPassword" = "Verskaf asseblief 'n geldige e-posadres en wagwoord.";
+
+// MARK: Other
+"minutesRead" = "min om te lees";
+"byWithSpace" = "";
+"and" = "en";
+"textSizeExample" = "Normale teksgrootte in artikels<p><strong>Vetdruk teksgrootte in artikels</strong><p><em>Kursiewe teksgrootte in artikels</em>";
+"imageMissing" = "Missing";
+"imageNotAvailable" = "Image not available";
+"verifyEmailSent" = "Ons het vir jou 'n e-pos gestuur om jou e-posadres te bevestig.";
+"termsAndConditionsLowercase" = "bepalings en voorwaardes";
+"privacyPolicyLowercase" = "privaatheidsbeleid";
+"termsPart1" = "Jou gebruik van hierdie app behels die aanvaarding van ons";
+"articles" = "artikels";
+"pastEditionsCleared" = "Vorige uitgawes is verwyder";
+"enterSearchTerm" = "Geen soekwoord verskaf";
+"turnOnAlerts" = "Benodig jy kennisgewings?";
+"registerText1" = "";
+"registerText2" = "Reeds geregistreer op TimesLIVE, SowetanLIVE of BusinessLIVE? Meld aan met dieselfde besonderhede.";
+"registerText3" = "Registreer met jou e-posadres. Ons sal dan vir jou 'n e-pos stuur om die adres te bevestig.";
+"registerText4" = "Het jy reeds geregistreer?";
+"loginText2" = "Geen rekening?";
+"loginText3" = "";
+"loginText4" = "Wagwoord vergeet?";
+"forgotPwdText1" = "Geen probleem nie. Ons stuur per e-pos vir jou instruksies om jou wagwoord te verander.";
+"forgotPwdText2" = "";
+
+// MARK: Widgets
+"widgetTwitter" = "Twiet";
+"widgetWebContent" = "Digitale Inhoud";
+"widgetGoogleMap" = "Google Kaart";
+"widgetPodcast" = "Potgooi";
+"widgetCrossword" = "Blokkiesraaisel";
+"widgetContent" = "Inhoud";
+"playPuzzle" = "Begin Raaisel";
+
+// MARK: Titles/Commands/Button Titles
+"deleteAccount" = "Skrap rekening";
+"logout" = "Teken Uit";
+"name" = "Naam";
+"surname" = "Van";
+"email" = "E-posadres";
+"emailAddress" = "E-posadres";
+"password" = "Wagwoord";
+"noResult" = "Geen resultat";
+"noResultTryAgain" = "Geen resultate vir u versoek gevind nie. Probeer asseblief weer later.";
+"ok" = "Ok";
+"yes" = "Ya";
+"no" = "Nee";
+"readEdition" = "Lees Uitgawe";
+"resetPassword" = "Wagwoord verander";
+"resetMyPassword" = "Verander My Wagwoord";
+"forgotPassword" = "Wagwoord vergeet";
+"register" = "Registreer";
+"signIn" = "Meld Aan";
+"profile" = "Profiel";
+"pushNotifications" = "Vertoon app-kennisgewings";
+"manageNotifications" = "Verstel kennisgewings";
+"manageNewsletters" = "Bestuur Nuusbriewe";
+"reviewApp" = "Deel jou mening oor hierdie app";
+"clearAllEditions" = "Verwyder alle uitgawes";
+"contactUs" = "Kontak ons";
+"aboutAndContactUs" = "Meer oor & Kontak ons";
+"termsOfService" = "Bepalings en voorwaardes";
+"privacyPolicyCapitalised" = "Privaatheidsbeleid";
+"appVersion" = "App-weergawe";
+"fontSettings" = "Verstel teksgrootte";
+"success" = "Suksesvol";
+"account" = "Rekening";
+"aboutUs" = "Meer oor ons";
+"about" = "Meer Oor Ons";
+"general" = "Algemeen";
+"specialReport" = "Spesiale verslag";
+"cancel" = "Kanselleer";
+"preview" = "Voorbeeld";
+"articleTextSize" = "Teksgrootte in artikels";
+"done" = "Klaar";
+"reload" = "Laai";
+
+// MARK: View Headings
+"headingBookmarks" = "Boekmerke";
+"headingSections" = "Indeks";
+"headingPastEditions" = "Uitgawes";
+"headingAuthors" = "Skrywers";
+"headingSettings" = "Instellings";

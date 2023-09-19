@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="dMY-KA-2Hb" customClass="ArticleHeader" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="439" height="519"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="W7n-NA-Ont">
+                    <rect key="frame" x="0.0" y="12" width="439" height="507"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="xJ2-Qy-9M2">
+                            <rect key="frame" x="0.0" y="42" width="439" height="185"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="185" id="Sc6-Fc-isY"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uqJ-mP-pf6">
+                            <rect key="frame" x="0.0" y="227" width="439" height="20"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="sponsored" translatesAutoresizingMaskIntoConstraints="NO" id="5xb-9z-uRr">
+                                    <rect key="frame" x="358" y="0.0" width="81" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="20" id="zRR-WA-6E4"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="5xb-9z-uRr" secondAttribute="trailing" id="mCi-m5-RfE"/>
+                                <constraint firstAttribute="bottom" secondItem="5xb-9z-uRr" secondAttribute="bottom" id="nqu-LB-T6L"/>
+                                <constraint firstItem="5xb-9z-uRr" firstAttribute="top" secondItem="uqJ-mP-pf6" secondAttribute="top" id="yyx-bz-W4K"/>
+                            </constraints>
+                        </view>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="pRB-gq-hoz">
+                            <rect key="frame" x="0.0" y="247" width="439" height="88"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="C7W-E3-6Td">
+                                    <rect key="frame" x="16" y="0.0" width="344" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="20" id="7Ou-HQ-Cmq"/>
+                                        <constraint firstAttribute="width" constant="344" id="LYj-qf-Wiu"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="1000" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="trr-YB-QQJ" customClass="ArticleSubTitleLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="30" width="31" height="14.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption1"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Header" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h3g-Qa-DX8" customClass="ArticleTitleLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="54.5" width="89" height="33.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <edgeInsets key="layoutMargins" top="0.0" left="16" bottom="0.0" right="16"/>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="BXJ-3E-z70">
+                            <rect key="frame" x="0.0" y="335" width="439" height="24.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="750" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9s2-Tk-jqg" customClass="ArticleSectionLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="5" width="219.5" height="14.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption1"/>
+                                    <color key="textColor" red="0.84313725490000002" green="0.40784313729999999" blue="0.25882352939999997" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="750" verticalHuggingPriority="251" horizontalCompressionResistancePriority="752" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iEn-CO-CKC" customClass="ArticleDateLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="235.5" y="5" width="187.5" height="14.5"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption1"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <edgeInsets key="layoutMargins" top="5" left="16" bottom="5" right="16"/>
+                        </stackView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ujW-FK-xDU">
+                            <rect key="frame" x="0.0" y="359.5" width="439" height="26"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fE3-Pf-rOm" customClass="ArticleOverTitleLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="0.0" width="407" height="16"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="bottom" secondItem="fE3-Pf-rOm" secondAttribute="bottom" constant="10" id="7IX-TA-dGb"/>
+                                <constraint firstItem="fE3-Pf-rOm" firstAttribute="top" secondItem="ujW-FK-xDU" secondAttribute="top" id="9av-Ws-gO3"/>
+                                <constraint firstItem="fE3-Pf-rOm" firstAttribute="leading" secondItem="ujW-FK-xDU" secondAttribute="leading" constant="16" id="HRX-l1-95V"/>
+                                <constraint firstAttribute="trailing" secondItem="fE3-Pf-rOm" secondAttribute="trailing" constant="16" id="ea6-pM-sWa"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bdv-9r-Qrl">
+                            <rect key="frame" x="0.0" y="385.5" width="439" height="50"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AjI-Zr-83R" customClass="AuthorView" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="0.0" width="407" height="50"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="AjI-Zr-83R" firstAttribute="top" secondItem="Bdv-9r-Qrl" secondAttribute="top" id="Vhu-7X-aj5"/>
+                                <constraint firstItem="AjI-Zr-83R" firstAttribute="leading" secondItem="Bdv-9r-Qrl" secondAttribute="leading" constant="16" id="dGA-Ca-W9O"/>
+                                <constraint firstAttribute="bottom" secondItem="AjI-Zr-83R" secondAttribute="bottom" id="jme-u1-sIW"/>
+                                <constraint firstAttribute="trailing" secondItem="AjI-Zr-83R" secondAttribute="trailing" constant="16" id="oua-aG-a0S"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JFg-b5-wKa">
+                            <rect key="frame" x="0.0" y="435.5" width="439" height="37.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" translatesAutoresizingMaskIntoConstraints="NO" id="Ba9-aH-8hD" customClass="ArticleIntroLabel" customModule="CosmosKit" customModuleProvider="target">
+                                    <rect key="frame" x="16" y="0.0" width="407" height="37.5"/>
+                                    <edgeInsets key="layoutMargins" top="8" left="8" bottom="8" right="8"/>
+                                    <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="Ba9-aH-8hD" firstAttribute="leading" secondItem="JFg-b5-wKa" secondAttribute="leading" constant="16" id="Qw7-Gr-cHI"/>
+                                <constraint firstAttribute="trailing" secondItem="Ba9-aH-8hD" secondAttribute="trailing" constant="16" id="RaV-K5-iSQ"/>
+                                <constraint firstAttribute="bottom" secondItem="Ba9-aH-8hD" secondAttribute="bottom" id="vv2-qO-1yd"/>
+                                <constraint firstItem="Ba9-aH-8hD" firstAttribute="top" secondItem="JFg-b5-wKa" secondAttribute="top" id="wOz-xV-6in"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <edgeInsets key="layoutMargins" top="10" left="0.0" bottom="0.0" right="0.0"/>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="6W2-3a-wrm"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="W7n-NA-Ont" secondAttribute="trailing" id="NPR-tj-kGf"/>
+                <constraint firstAttribute="bottom" secondItem="W7n-NA-Ont" secondAttribute="bottom" id="UeG-d7-pf0"/>
+                <constraint firstItem="W7n-NA-Ont" firstAttribute="top" secondItem="dMY-KA-2Hb" secondAttribute="top" constant="12" id="nLb-Od-Bhq"/>
+                <constraint firstItem="W7n-NA-Ont" firstAttribute="leading" secondItem="6W2-3a-wrm" secondAttribute="leading" id="riC-JW-w5X"/>
+                <constraint firstItem="xJ2-Qy-9M2" firstAttribute="width" secondItem="dMY-KA-2Hb" secondAttribute="width" id="vp7-hx-s8c"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="articleDate" destination="iEn-CO-CKC" id="FNa-fh-MRc"/>
+                <outlet property="author" destination="AjI-Zr-83R" id="Ehj-75-UEN"/>
+                <outlet property="coBrandImage" destination="C7W-E3-6Td" id="IpD-aA-2Qa"/>
+                <outlet property="cobrandHeightConstraint" destination="7Ou-HQ-Cmq" id="NJr-zj-PRX"/>
+                <outlet property="cobrandWidthConstraint" destination="LYj-qf-Wiu" id="Bmi-CR-msz"/>
+                <outlet property="headStack" destination="pRB-gq-hoz" id="E89-aI-CFm"/>
+                <outlet property="headerImage" destination="xJ2-Qy-9M2" id="2ok-ul-Gzf"/>
+                <outlet property="headerImageHeight" destination="Sc6-Fc-isY" id="ryN-wm-gDs"/>
+                <outlet property="intro" destination="Ba9-aH-8hD" id="BF0-p8-TI5"/>
+                <outlet property="overHeadTitle" destination="fE3-Pf-rOm" id="ePn-Ct-eCI"/>
+                <outlet property="section" destination="9s2-Tk-jqg" id="YGK-PR-ciS"/>
+                <outlet property="sponsor" destination="5xb-9z-uRr" id="MBs-1N-ZcI"/>
+                <outlet property="title" destination="h3g-Qa-DX8" id="SjJ-Xu-NO1"/>
+                <outlet property="underHeadTitle" destination="trr-YB-QQJ" id="YFz-dJ-BIY"/>
+            </connections>
+            <point key="canvasLocation" x="132.60869565217394" y="298.32589285714283"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="sponsored" width="81" height="20"/>
+    </resources>
+</document>

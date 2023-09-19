@@ -1,0 +1,24 @@
+included:
+- CosmosKit
+- CosmosKitDemo
+
+excluded:
+- Pods
+- RunScripts/main.swift
+- CosmosKit/Generated/CosmosImages-Generated.swift
+- CosmosKitTests/Image Catalog Tests/Generated/CosmosImagesTests-Generated.swift
+
+disabled_rules:
+- type_body_length
+- file_length
+- implicit_getter
+- multiple_closures_with_trailing_closure
+
+line_length: 140
+identifier_name:
+  min_length: # only min_length
+    error: 3 # only error
+  excluded: # excluded via string array
+    - id
+    - URL
+    - ad

@@ -1,0 +1,30 @@
+#usage `fastlane set_version v:major.minor.patch`
+desc 'Set the app\'s version number (major.minor.patch). Example usage: fastlane set_version v:6.0.0'
+  lane :set_version do |options|
+    new_version_number = options[:v]
+
+    if new_version_number.to_s.empty? then
+        new_version_number = UI.input("What's the new version number?")
+        if new_version_number.to_s.empty? then
+            UI.user_error!("We can't run this action without a new version number")
+        end
+    end
+
+    # This bumps the version in project
+    increment_version_number(
+        version_number: new_version_number,
+        xcodeproj: "./CosmosKitDemo.xcodeproj"
+    )
+
+    # This bumps the version in the pod spec
+    version_bump_podspec(
+        version_number: new_version_number
+    )
+
+    # This does a `pod install` so that CosmosKitDemo also has the latest Cosmos version
+    cocoapods()
+
+    # commit all the changes
+    git_commit(path: ["./CosmosKit.podspec", "./Podfile.lock", "./CosmosKit/Info.plist", "./CosmosKitDemo/Info.plist", "./CosmosKitTests/Info.plist"],
+        message: "Bumped version to #{new_version_number}")
+  end

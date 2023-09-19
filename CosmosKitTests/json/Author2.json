@@ -1,0 +1,48 @@
+{
+   "category": "journalist",
+   "bio": "Melvyn Minnaar skryf oor kultuur, wyn en kuns.",
+   "slug": "melvyn-minnaar",
+   "tel": null,
+   "name": "Melvyn Minnaar",
+   "created": 1554407444000,
+   "image": {
+     "palette": [
+       "#5f4243",
+       "#e4bfbc",
+       "#c89b99",
+       "#829bb9",
+       "#819ab8"
+     ],
+     "filepath": "//lh3.googleusercontent.com/q--1jbqcD8zsA2VpEW7I0Xp-HNppDoAzSzMdewmC5t3-79b0q3EqyoH6r1F5FZrIDL56t7OFq1VqF04OsVw",
+     "created": 1554407500000,
+     "blob_path": "/vrye_weekblad_prod_cosmos_images/6868f2f1119c1404a1558290bdf944710041772b",
+     "blob_key": "AMIfv95YpYa4G0sg80qfVOx1_dkAEFdPPwlsYVIMVqN3pCkZ2BMnyDge4IuApnQHemBX7sIsVuIrrC1hucvSPhEQ3PBM2mPnaXSV3s8XrSYJrcbtqQ7BzOoOFaJDp5s3IFuUDwan8HSZN2FfYHrWIo4xPaXkH0R6MmTb5xNfBZRXAaPtU6YbHNvX68WMm1Jx-51uRe3qdteV",
+     "average": "#817c8a",
+     "author": "",
+     "filename": "6868f2f1119c1404a1558290bdf944710041772b",
+     "width": 1500,
+     "state": null,
+     "version": 1,
+     "focal_y": 50,
+     "focal_x": 50,
+     "content_type": "image/jpeg",
+     "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYBDggIDh4UBRQeHh4eHh4eHh4eHh4eHh4SHh4eHh4eHh4eHh4eHh4eHh4eHh4eEh4eHh4eHh4eHh4eEv/AABEIABAAEAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAAEBgcD/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAURAAYSITEHEyJBYYGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAL/xAAeEQABAgcBAAAAAAAAAAAAAAAB0eEAAwQHESQ0Av/aAAwDAQACEQMRAD8AcaI7Sk1JCKroLah4oW72wo3AtcEE88A43zExS25DMiiv96DJb1o8wvQoEhSdXsC3794isnq5lyZmFuIyiVGhlKkKqTjYsCLFJCNzp532PxvgSr9cExcwNQojBq9DZASqS4C08VKN1qQONI9JIFyDuAcKFRMFxzk67LFeqeQbOgjsdI//2Q==",
+     "keywords": [],
+     "title": "",
+     "height": 1500,
+     "fingerprint": null,
+     "description": ""
+   },
+   "title": "Joernalis",
+   "email": null,
+   "state": null,
+   "version": 1,
+   "key": 4650614680190976,
+   "social": {
+     "twitter": null,
+     "facebook": null,
+     "instagram": null
+   },
+   "active": true,
+   "publication_key": "vrye-weekblad"
+ }

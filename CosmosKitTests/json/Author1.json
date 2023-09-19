@@ -1,0 +1,49 @@
+
+{
+  "category": "columnist",
+  "bio": "Max du Preez is mede-redakteur van Vrye Weekblad. Hy was stigtersredakteur van die oorspronklike Vrye Weekblad. Hy is die skrywer van 14 boeke oor Suid-Afrikaanse geskiedenis en politiek.",
+  "slug": "max-du-preez",
+  "tel": null,
+  "name": "Max du Preez",
+  "created": 1553852424000,
+  "image": {
+    "palette": [
+      "#7e564a",
+      "#dbbbb1",
+      "#bd9b92",
+      "#829bb9",
+      "#809ab9"
+    ],
+    "filepath": "//lh3.googleusercontent.com/HwOuzWzLCousGinS08lRl7Le_ciGEfhvrf5UKOqaKYQsd0NbUUUJuGIsT5B8zneDOd4zXGl2p-qb2fo6IQ",
+    "created": 1557924303000,
+    "blob_path": "/vrye_weekblad_prod_cosmos_images/42b10bb498ae91936d31815bc50a5dadb65d7463",
+    "blob_key": "AMIfv96W9b0h_MZ6N790tWgxS7rsl3SaDWhu3AXHyq3vfawG4NBqSehRUpA9WZxcDFQ0w866hRb2knRy3xZrOcskTq3ystpKX_r6ccCkr3aRIK3jJdc0Ds-vSOvp69ZyLn34X960IyTmDb6vIF8Ih5k0sRXzzggtnI1Jcd7qYoRZJimd7i15sunvZp1Pnnf2EWH8fWq7JTmR",
+    "average": "#908b94",
+    "author": "",
+    "filename": "42b10bb498ae91936d31815bc50a5dadb65d7463",
+    "width": 1500,
+    "state": null,
+    "version": 1,
+    "focal_y": 50,
+    "focal_x": 50,
+    "content_type": "image/jpeg",
+    "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEBAwUBBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYBDggIDh4KBRQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAGAwL/xAAkEAABAgUFAAMBAAAAAAAAAAABAgMEBxEhMQAFBhJBIjJhCP/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAIBEAAQEIAwAAAAAAAAAAAAAAAqEABAchJDHR8AERI//aAAwDAQACEQMRAD8AYbbHyulwtXJNyhnYo1ShhpLCnUlajSqkjPmbX91Xd4uWEwW4fm+1wDsElwLS62tBRVQOQkk9c4sMWGgu985/n/hG5Jks7EPOOPupZW6xdLKyfj2Oc0BpgGvmsRkw5X8JjYeSsW3FEMNhTkQU/Va7kdTQ0FBfP5bTE88jFqZeCWy1i7CUE5DU96jf/9k=",
+    "keywords": [],
+    "title": "",
+    "height": 1500,
+    "fingerprint": null,
+    "description": ""
+  },
+  "title": "Mede-redakteur",
+  "email": null,
+  "state": null,
+  "version": 1,
+  "key": 5681034041491456,
+  "social": {
+    "twitter": "https://twitter.com/MaxduPreez",
+    "facebook": null,
+    "instagram": null
+  },
+  "active": true,
+  "publication_key": "vrye-weekblad"
+}

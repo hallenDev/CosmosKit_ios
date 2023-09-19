@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CosmosNativeAd" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="327"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Qbc-Qh-mhC">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="327"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="Qbc-Qh-mhC" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="USu-ry-Csf"/>
+                <constraint firstItem="Qbc-Qh-mhC" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="emE-jy-211"/>
+                <constraint firstAttribute="trailing" secondItem="Qbc-Qh-mhC" secondAttribute="trailing" id="t6d-YO-UFO"/>
+                <constraint firstAttribute="bottom" secondItem="Qbc-Qh-mhC" secondAttribute="bottom" id="y1h-UN-7Tg"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="image" destination="Qbc-Qh-mhC" id="pad-bk-b1L"/>
+            </connections>
+            <point key="canvasLocation" x="13.6" y="-158.77061469265368"/>
+        </view>
+    </objects>
+</document>

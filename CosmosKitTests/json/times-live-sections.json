@@ -1,0 +1,139 @@
+[[
+                {
+                    "id" : "news",
+                    "name" : "News",
+                    "sections" : [
+                        {
+                            "id" : "south-africa",
+                            "name" : "South Africa"
+                        },
+                        {
+                            "id" : "africa",
+                            "name" : "Africa"
+                        },
+                        {
+                            "id" : "world",
+                            "name" : "World"
+                        },
+                        {
+                            "id" : "consumer-live",
+                            "name" : "Consumer Live"
+                        },
+                        {
+                            "id" : "sci-tech",
+                            "name" : "Sci-Tech"
+                        },
+                        {
+                            "name" : "State Capture",
+                            "link" : "/group/State_Capture",
+                            "hide_in_app" : true
+                        }
+                    ]
+                },
+                {
+                    "id" : "politics",
+                    "name" : "Politics"
+                },
+                {
+                    "id": "anc-conference-2017",
+                    "name": "ANC Conference 2017",
+                    "hidden": true
+                },
+                {
+                    "id" : "sport",
+                    "name" : "Sport",
+                    "sections" : [
+                        {
+                            "id" : "soccer",
+                            "name" : "Soccer"
+                        },
+                        {
+                            "id" : "rugby",
+                            "name" : "Rugby"
+                        },
+                        {
+                            "id" : "cricket",
+                            "name" : "Cricket"
+                        }
+                    ]
+                },
+                {
+                    "name" : "TshisaLIVE",
+                    "link" : "/tshisa-live/tshisa-live/",
+                    "cosmos_publication_id" : "tshisa-live",
+                    "cosmos_section_id" : "tshisa-live"
+                },
+                {
+                    "name" : "SebenzaLIVE",
+                    "link" : "/sebenza-live/features/",
+                    "cosmos_publication_id" : "sebenza-live",
+                    "cosmos_section_id" : "features",
+                    "hide_in_app" : true
+                },
+                {
+                    "name" : "Lifestyle",
+                    "link" : "/sunday-times/lifestyle/",
+                    "cosmos_publication_id" : "sunday-times",
+                    "cosmos_section_id" : "lifestyle"
+                },
+                {
+                    "id" : "ideas",
+                    "name" : "Ideas",
+                    "sections" : [],
+                    "hidden" : true
+                },
+                {
+                    "name" : "Business",
+                    "link" : "/sunday-times/business/",
+                    "cosmos_publication_id" : "sunday-times",
+                    "cosmos_section_id" : "business"
+                },
+                {  "id": "motoring",
+                   "name" : "Motoring",
+                    "sections" : [
+                        {
+                            "id": "news",
+                            "name": "news"
+                        },
+                        {
+                            "id": "first-drives",
+                            "name": "First Drives"
+                        },
+                        {
+                            "id": "new-models",
+                            "name": "New Models"
+                        },
+                        {
+                            "id": "reviews",
+                            "name": "Reviews"
+                        },
+                        {
+                            "id": "features",
+                            "name": "Features"
+                        },
+                        {
+                            "id": "motorsport",
+                            "name": "Motorsport"
+                        }
+                    ]
+
+                },
+                {
+                    "id" : "multimedia",
+                    "name" : "Multimedia",
+                    "hide_in_app" : true
+                },
+                {
+                    "name" : "Times Select",
+                    "link" : "https://select.timeslive.co.za",
+                    "target": "_blank",
+                    "hide_in_app" : true
+                },
+                {
+                    "id" : "pages",
+                    "name" : "Pages",
+                    "index": false,
+                    "hidden" : true
+                }
+            ]]
+    

@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "Base url"; ObjectID = "6Hr-ae-qDf"; */
+"6Hr-ae-qDf.text" = "Base url";
+
+/* Class = "UIButton"; normalTitle = "Static"; ObjectID = "8QB-6p-Djj"; */
+"8QB-6p-Djj.normalTitle" = "Static";
+
+/* Class = "UILabel"; text = "TimesLive"; ObjectID = "AaD-Kt-sVy"; */
+"AaD-Kt-sVy.text" = "TimesLive";
+
+/* Class = "UIButton"; normalTitle = "Bookmarks"; ObjectID = "cwM-Ne-cWo"; */
+"cwM-Ne-cWo.normalTitle" = "Bookmarks";
+
+/* Class = "UIButton"; normalTitle = "Live"; ObjectID = "cyC-YE-OLe"; */
+"cyC-YE-OLe.normalTitle" = "Live";
+
+/* Class = "UITextField"; text = "not required"; ObjectID = "DQu-MM-D2w"; */
+"DQu-MM-D2w.text" = "not required";
+
+/* Class = "UIButton"; normalTitle = "Sections"; ObjectID = "gIx-zB-sQj"; */
+"gIx-zB-sQj.normalTitle" = "Sections";
+
+/* Class = "UILabel"; text = "API Key"; ObjectID = "HL4-np-DdR"; */
+"HL4-np-DdR.text" = "API Key";
+
+/* Class = "UIButton"; normalTitle = "All Editions"; ObjectID = "Ufw-GY-QdD"; */
+"Ufw-GY-QdD.normalTitle" = "All Editions";
+
+/* Class = "UIButton"; normalTitle = "Latest edition"; ObjectID = "ulY-Zh-PUe"; */
+"ulY-Zh-PUe.normalTitle" = "Latest edition";
+
+/* Class = "UILabel"; text = "Error, something went wrong"; ObjectID = "XC3-dN-JFZ"; */
+"XC3-dN-JFZ.text" = "Error, something went wrong";
+
+/* Class = "UITextField"; text = "https://timeslive.co.za"; ObjectID = "Zsg-H7-VlY"; */
+"Zsg-H7-VlY.text" = "https://timeslive.co.za";
+

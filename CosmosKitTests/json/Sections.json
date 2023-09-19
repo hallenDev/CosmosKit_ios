@@ -1,0 +1,122 @@
+ [
+  [
+   {
+   "url_key": "news",
+   "sections": [
+                {
+                "url_key": "south-africa",
+                "id": "south-africa",
+                "name": "South Africa"
+                },
+                {
+                "url_key": "africa",
+                "id": "africa",
+                "name": "Africa"
+                },
+                {
+                "url_key": "world",
+                "id": "world",
+                "name": "World"
+                },
+                {
+                "url_key": "consumer-live",
+                "id": "consumer-live",
+                "name": "Consumer Live"
+                },
+                {
+                "url_key": "sci-tech",
+                "id": "sci-tech",
+                "name": "Sci-Tech"
+                },
+                {
+                "link": "/group/Gupta_Emails_Revealed/",
+                "name": "Gupta Emails"
+                }
+                ],
+   "id": "news",
+   "name": "News"
+   },
+   {
+   "url_key": "politics",
+   "sections": [
+                {
+                "link": "/anc-conference-2017/",
+                "name": "ANC Conference 2017"
+                }
+                ],
+   "id": "politics",
+   "name": "Politics"
+   },
+   {
+   "hidden": true,
+   "url_key": "anc-conference-2017",
+   "id": "anc-conference-2017",
+   "name": "ANC Conference 2017"
+   },
+   {
+   "url_key": "sport",
+   "sections": [
+                {
+                "url_key": "soccer",
+                "id": "soccer",
+                "name": "Soccer"
+                },
+                {
+                "url_key": "rugby",
+                "id": "rugby",
+                "name": "Rugby"
+                },
+                {
+                "url_key": "cricket",
+                "id": "cricket",
+                "name": "Cricket"
+                }
+                ],
+   "id": "sport",
+   "name": "Sport"
+   },
+   {
+   "link": "/tshisa-live/tshisa-live/",
+   "name": "TshisaLIVE"
+   },
+   {
+   "link": "/sebenza-live/features/",
+   "name": "SebenzaLIVE"
+   },
+   {
+   "link": "/sunday-times/lifestyle/",
+   "name": "Lifestyle"
+   },
+   {
+   "url_key": "ideas",
+   "hidden": true,
+   "sections": [],
+   "id": "ideas",
+   "name": "Ideas"
+   },
+   {
+   "link": "/sunday-times/business/",
+   "name": "Business"
+   },
+   {
+   "link": "http://www.ignitionlive.co.za/",
+   "name": "Motoring"
+   },
+   {
+   "link": "/video/",
+   "name": "Video"
+   },
+   {
+   "link": "https://select.timeslive.co.za",
+   "name": "Times Select",
+   "target": "_blank"
+   },
+   {
+   "index": false,
+   "hidden": true,
+   "url_key": "pages",
+   "id": "pages",
+   "name": "Pages"
+   }
+   ]
+  ]

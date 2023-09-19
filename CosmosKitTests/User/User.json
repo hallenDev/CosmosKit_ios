@@ -1,0 +1,69 @@
+{
+    "first_name": "Flat",
+    "last_name": "Circle",
+    "display_name": "Flat Circle",
+    "created": 1523523468000,
+    "last_activity": 1528892936000,
+    "ext": {
+        "paradise": {
+            "prod_code": null,
+            "city": "undefined",
+            "first_name": "Flat",
+            "last_name": "Circle",
+            "user_id": 6947352,
+            "subs": {
+                "detailed": [],
+                "names": []
+            },
+            "district": "undefined",
+            "country": "ZA",
+            "description": null,
+            "sales_code": null,
+            "user_ids": [
+                         6947352
+                         ],
+            "street": "flatcircle@guerrillamail.info",
+            "end_date": null,
+            "house_no": "0",
+            "move_date": null,
+            "start_date": null,
+            "zip_code": "0000"
+        }
+    },
+    "role": "Editor",
+    "publications": [
+                     "times-live",
+                     "times-select",
+                     "business-live",
+                     "tmg-central"
+                     ],
+    "key": "flatcircle@guerrillamail.info",
+    "guid": "f9676401-5380-11e8-b717-42010a840101",
+    "activate_token": null,
+    "email": "flatcircle@guerrillamail.info",
+    "permissions": [
+                    "article.create",
+                    "article.versions",
+                    "article.publish",
+                    "article.get_unpublished_article",
+                    "article.move",
+                    "article.delete",
+                    "article.unpublish",
+                    "article.update",
+                    "article.update_thumbnail",
+                    "author.create",
+                    "author.update",
+                    "image.update",
+                    "image.upload",
+                    "auth.get_user",
+                    "workflow.wire_access",
+                    "workflow.update_homepage",
+                    "list.publish",
+                    "list.remove",
+                    "list.update",
+                    "article.get_all_unpublished_articles",
+                    "article.migrate",
+                    "article.purge",
+                    "image.migrate"
+                    ]
+}

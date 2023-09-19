@@ -1,0 +1,98 @@
+[[
+                {
+                    "id" : "news",
+                    "name" : "News",
+                    "sections" : [
+                        {
+                            "name": "Investigations",
+                            "link": "/sunday-times/investigations/",
+                            "cosmos_publication_id" : "sunday-times",
+                            "cosmos_section_id" : "investigations"
+                        }
+                    ]
+                },
+                {
+                    "id" : "investigations",
+                    "name" : "Investigations",
+                    "sections" : [],
+                    "hidden": true
+                },
+                {
+                    "id" : "opinion-and-analysis",
+                    "name" : "Opinion & Analysis",
+                    "sections" : []
+                },
+                {
+                    "id" : "sport",
+                    "name" : "Sport",
+                    "sections" : []
+                },
+                {
+                    "id" : "business",
+                    "name" : "Business",
+                    "sections" : []
+                },
+                {
+                    "id" : "lifestyle",
+                    "name" : "Lifestyle",
+                    "sections" : [
+                        {
+                            "id" : "food",
+                            "name" : "Food"
+                        },
+                        {
+                            "id" : "health-and-sex",
+                            "name" : "Health & Sex"
+                        },
+                        {
+                            "id" : "fashion-and-beauty",
+                            "name" : "Fashion & Beauty"
+                        },
+                        {
+                            "id" : "the-edit",
+                            "name" : "The Edit"
+                        },
+                        {
+                            "id" : "home-and-gardening",
+                            "name" : "Home & Gardening"
+                        },
+                        {
+                            "id" : "travel",
+                            "name" : "Travel"
+                        },
+                        {
+                            "name" : "Books",
+                            "link" : "http://bookslive.co.za/"
+                        },
+                        {
+                            "id" : "photography-competition",
+                            "name" : "photography-competition",
+                            "hidden" : true
+                        }
+                    ]
+                },
+                {
+                    "name" : "Puzzles",
+                    "link" : "/sunday-times/pages/puzzles/",
+                    "cosmos_article_slug" : "puzzles"
+                },
+                {
+                    "name" : "E-Edition",
+                    "link" : "/e-edition/",
+                    "hide_in_app" : true
+                    
+                },
+                {
+                    "name" : "Times Select",
+                    "link" : "https://select.timeslive.co.za",
+                    "target": "_blank",
+                    "hide_in_app" : true
+                },
+                {
+                    "id" : "pages",
+                    "name" : "Pages",
+                    "index": false,
+                    "hidden" : true
+                }
+            ]]
+   

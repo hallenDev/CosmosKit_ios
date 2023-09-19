@@ -1,0 +1,557 @@
+{
+    "key": 6200429704642560,
+    "push_notify": false,
+    "pub_url": "/news/2018-05-18-exclusive-top-secret-police-codes-up-for-sale/",
+    "slug_custom": "2018-05-18-exclusive-top-secret-police-codes-up-for-sale",
+    "weight": 0,
+    "title_section": "Exclusive: Top-secret police codes up for sale",
+    "count_words": 649,
+    "embedded_articles_list": [],
+    "author_keys": [
+                    5714468482842624
+                    ],
+    "count_social": 0,
+    "synopsis_custom": "Cyber crime experts warn this could expose critical cop systems to hackers",
+    "created": 1526569501000,
+    "images": [
+               {
+               "palette": [
+                           "#5a6274",
+                           "#323b4a",
+                           "#9d9fab",
+                           "#151a23",
+                           "#82818a"
+                           ],
+               "description": "",
+               "created": 1526570709000,
+               "blob_path": "/times_select_cosmos_images/9ca4b5669b5311c4a5d404137b535ceafee3d439",
+               "blob_key": "AMIfv94108a8w1E8nq3GfgU81OJfPQ7ULof8DDUf46NG145txRdYvsUKvHHc_WB5ghMfSMAdeW42j8ISOxtEOlV94nx-ThoiU0tY06-IJlQpH9j9f-fho4FYfyqc_6Ljsz2bQXbEU902hbVStcL5RxHrS3RIA63dgECp6sgdDep1KoyUP-QH7Dt5bcu_6FKsAhQ2svQMBWHI",
+               "average": "#4d5360",
+               "author": "123rf",
+               "filename": "9ca4b5669b5311c4a5d404137b535ceafee3d439",
+               "filepath": "//lh3.googleusercontent.com/rTvnquqc3Jc8qpg3hjwjqa2xphjlRZbYqtbacw1KTJRM3PIycItWj_nE60_kNze1f2qImxtnWrmysovMjqIEdXme",
+               "width": 848,
+               "state": "image 9ca4b5669b5311c4a5d404137b535ceafee3d439 was uploaded",
+               "version": 1,
+               "focal_y": 50,
+               "focal_x": 50,
+               "key": "9ca4b5669b5311c4a5d404137b535ceafee3d439",
+               "blur": "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",
+               "keywords": null,
+               "title": "",
+               "height": 565,
+               "ref": "",
+               "content_type": "image/jpeg"
+               },
+               {
+               "palette": [
+                           "#e9bfa5",
+                           "#402820",
+                           "#160706",
+                           "#0a0706",
+                           "#030202"
+                           ],
+               "description": "Trish Richardson.",
+               "created": 1526575549000,
+               "blob_path": "/times_select_cosmos_images/2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+               "blob_key": "AMIfv96VOfs_8GB8FHY9m0C695u0HQ7iZIHAF7xr3dT10fIpq3QfdjGRonvcviOiHBPPrBpRsot87IgW5iQ5I0-uJlJamf9k4IUeQVoMZGDhkUSzulcdvhzAfKKa2E9xiQVUtsfBt7c-8A5qhA6-FLW8S7SM_FboEzThH58FbOGvNYhpL1BjaS7Jr0cggSFlCuOxZTbGGUDx",
+               "average": "#523f35",
+               "author": "",
+               "filename": "2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+               "filepath": "//lh3.googleusercontent.com/GhA8daHle4xfNd38qoepxkd-qFYXv017_XTLOE-Wt07yU_Qtjtu0XJrS4RtQc5jbdquZvdZfHJqxi-AvvsymcIA",
+               "width": 512,
+               "state": "image 2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619 was uploaded",
+               "version": 1,
+               "focal_y": 50,
+               "focal_x": 50,
+               "key": "2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+               "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQCAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4YHh4eHh4eHh4eFh0eHh4eHh4eHh4eHh4eHv/AABEIABgAEAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAHAAQFBgj/xAApEAABAgUDAwMFAAAAAAAAAAABAgMEBQYRIQAHEwgSIkFRUhQjMTI0/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRIRL/2gAMAwEAAhEDEQA/AM77J0hKd7dwpXI40xLcA6VmLdaV9whLRUeMWOSR7HGdSvUBtU308TFpUvmapjKYj+Z59rifv5YUBhQsg+Ytk/gWy86baZqCpa3hagkb7EMJdEiId5We4dirp7LAgeSS6PTCVH2BNnVjT0LuXKZEtpajNXYv6ODYQQlBLiQp1S1EZCQhJx8h6X0F7tXeQZUrpVsf0RBNXM7qTpQraElFPzlyXGEkMJCtuQyGnURCe1alqdbWCnv5lvWJyAcEA6otU7kVjuO/LzUk6ejmoIr4kpZaZUlDhHIkFtCf2CQDe4NgDjGlpa3igNUrkd1DZJK2MoPNz//Z",
+               "keywords": null,
+               "title": "",
+               "height": 768,
+               "ref": "",
+               "content_type": "image/jpeg"
+               },
+               {
+               "palette": [
+                           "#ffffff",
+                           "#feffff",
+                           "#fafafb",
+                           "#fefffa",
+                           "#b1b1b8"
+                           ],
+               "description": "The email that was sent offering the source codes.",
+               "created": 1526572674000,
+               "blob_path": "/times_select_cosmos_images/e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+               "blob_key": "AMIfv97N3kpqw4gbT2QutbA3c0Mej_hHX5O7bVSlfkIPoK_sUzIktqkGLsiouyNDRq3i9MKcTuQhOUAZcE8J_YMp7mT7AWG7uPiOFFGDbeQb4An1I3IHmKc3SO9Q-cEEps1z9Xx-R6J-egqTv-8MrlbKhZB-E34sybk5ehv3-4JDe0iHzKSh4WRIzpIlyHeWcgfzmuhzfIlV",
+               "average": "#f7f7f7",
+               "author": "Screenshot",
+               "filename": "e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+               "filepath": "//lh3.googleusercontent.com/_neCDuq56vz0KD_Llk9bBjsVMRuLNeOgEcPpiXu5QrP38jjO8MZTak2T9eWvD-g4SJSZiEwjz7-18Bu4AYxU9Ac",
+               "width": 518,
+               "state": "image e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee was uploaded",
+               "version": 1,
+               "focal_y": 50,
+               "focal_x": 50,
+               "key": "e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+               "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwUExQaFREdGCEYGh0lHx0fFRQeJCIeJSUlJRUBBQUFBgYGDgYICh4UEQ4SEhIeHhUeEh4SHhIeEhIVHhUeFRUSFRISFRUeEhIeEhISEhISEhISEhISEhIVEhIVEv/AABEIAAkAEAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBQgA/8QAIBAAAgAFBQEAAAAAAAAAAAAAAQIAAwQREjRhcpGxE//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCtKAU88NhVWKsQVxtbuGctpSrj9Q25YRqbTSuA8gkB/9k=",
+               "keywords": null,
+               "title": "",
+               "height": 278,
+               "ref": "",
+               "content_type": "image/jpeg"
+               },
+               {
+               "palette": [
+                           "#9c6954",
+                           "#ebcfb9",
+                           "#aa3838",
+                           "#382620",
+                           "#cf9381"
+                           ],
+               "description": "This picture, which was presented in parliament, put Trish Richardson on Bayard's trail. Keith Keating (left) and Jerneque Bayard (right).",
+               "created": 1526570525000,
+               "blob_path": "/times_select_cosmos_images/305fe2a6ef9e4cd432cc434d572149733c767721",
+               "blob_key": "AMIfv97eifxcLLPYcUF69wLbMiBqlQCT2R_7OuDDCE2yYL-whbAIv-KbMV-w2uJ3PQ6nRLhRE3ZrQ-cCu4n7OJM9aFcXHo-H0inHZwt6S6JWLqnouYJ5Uwx_EMZ8sG4omF1tc-U_uiCWFgUC5wHMTr8VL0eIzvRe0oOVAxhuFqLipxE0ZZHxUuKAB_BuzUN_QC61ewEwTIQz",
+               "average": "#985f53",
+               "author": "",
+               "filename": "305fe2a6ef9e4cd432cc434d572149733c767721",
+               "filepath": "//lh3.googleusercontent.com/YhPIRxlH6pkRpt6yJ1pDSDG-f5pWkNhWKM2Jd9tRWZZTUd6tI63hfL522JUTEIRdjX8hIPZj_UqBRcJoN8cB-Bc",
+               "width": 491,
+               "state": "image 305fe2a6ef9e4cd432cc434d572149733c767721 was uploaded",
+               "version": 1,
+               "focal_y": 50,
+               "focal_x": 50,
+               "key": "305fe2a6ef9e4cd432cc434d572149733c767721",
+               "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXEw0aFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAA4AEAMBIgACEQEDEQH/xAAWAAADAAAAAAAAAAAAAAAAAAAFBgf/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMEERIFIQAGBwgTMRQyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAYF/8QAIREAAgAEBwEAAAAAAAAAAAAAAREDBBIhAkFRgZHR8AD/2gAMAwEAAhEDEQA/ABfJr9QKDpbqVJqlXpk+p16SJF4MRN48Tir7ALIr5WPq2Nje54S+V27k3q6p5H5iqooY/DjICpRyGYMRHfJAFa53UZANuV4s+q9PulWh18pimqZHNMZMPIQgCmK/u9/ve1vza1hwF5kpO1yojimqNHeMIkij45RZJ5SLLm5U4oCGOyn0Lg3No1EM4KiAj7b5fIATszhgMjRX5aeQduv/2Q==",
+               "keywords": null,
+               "title": "",
+               "height": 420,
+               "content_type": "image/png"
+               }
+               ],
+    "intro": null,
+    "sponsor": null,
+    "nova_fingerprint": null,
+    "keywords": [
+                 "blueprints",
+                 "jerenique bayard",
+                 "codes",
+                 "trish richardson",
+                 "factt",
+                 "bytes technology",
+                 "martin hood"
+                 ],
+    "count_embedded_articles": 0,
+    "breaking": false,
+    "related_articles": [
+                         {
+                         "synopsis": "Amid headline-grabbing murders, Stellenbosch cops juggle caseloads that are eight times the national norm",
+                         "pub_url": "/news/2018-05-11-everybodys-on-their-case-cape-detectives-snowed-under/",
+                         "image_thumbnail": null,
+                         "key": 5935364858445824,
+                         "title": "Everybody's on their case: Cape detectives snowed under"
+                         },
+                         {
+                         "synopsis": "Ipid is investigating whether Bulelani Sizane, who was shot with live ammunition, was in fact killed by police",
+                         "pub_url": "/news/2018-05-11-real-bullet-not-rubber-one-killed-protest-victim/",
+                         "image_thumbnail": null,
+                         "key": 6195041802387456,
+                         "title": "Real bullet, not rubber one, killed protest victim"
+                         },
+                         {
+                         "synopsis": "A dodgy businessman was the downfall of former Western Cape commissioner in a case that echoed that of Jackie Selebi ",
+                         "pub_url": "/news/2018-05-11-top-cop-to-pay-for-his-corruption-behind-bars/",
+                         "image_thumbnail": null,
+                         "key": 5182452796489728,
+                         "title": "Top cop to pay for his corruption behind bars"
+                         },
+                         {
+                         "synopsis": "Fisheries boss among four officials who could face charges over appointment of controversial fish-processor",
+                         "pub_url": "/news/2018-05-11-theres-something-fishy-about-this-abalone-deal/",
+                         "image_thumbnail": null,
+                         "key": 5724179705888768,
+                         "title": "There's something fishy about this abalone deal"
+                         }
+                         ],
+    "native": false,
+    "style": null,
+    "location_name": null,
+    "publication": {
+        "link": "/",
+        "id": "times-select",
+        "primary": true,
+        "name": "Times Select"
+    },
+    "title": "Exclusive: Top-secret police codes up for sale",
+    "section": {
+        "link": "/news/",
+        "name": "News",
+        "id": "news"
+    },
+    "future_publish_date": null,
+    "modified_user": "crouchr@tisoblackstar.co.za",
+    "sponsor_keys": [],
+    "created_by": null,
+    "location_lat": null,
+    "source": null,
+    "state": "published",
+    "version": 1,
+    "comments_enabled": true,
+    "title2_text": "",
+    "access":true,
+    "widgets": [
+                {
+                "data": {
+                "image": {
+                "palette": [
+                            "#5a6274",
+                            "#323b4a",
+                            "#9d9fab",
+                            "#151a23",
+                            "#82818a"
+                            ],
+                "description": "",
+                "created": 1526570709000,
+                "blob_path": "/times_select_cosmos_images/9ca4b5669b5311c4a5d404137b535ceafee3d439",
+                "blob_key": "AMIfv94108a8w1E8nq3GfgU81OJfPQ7ULof8DDUf46NG145txRdYvsUKvHHc_WB5ghMfSMAdeW42j8ISOxtEOlV94nx-ThoiU0tY06-IJlQpH9j9f-fho4FYfyqc_6Ljsz2bQXbEU902hbVStcL5RxHrS3RIA63dgECp6sgdDep1KoyUP-QH7Dt5bcu_6FKsAhQ2svQMBWHI",
+                "average": "#4d5360",
+                "author": "123rf",
+                "filename": "9ca4b5669b5311c4a5d404137b535ceafee3d439",
+                "filepath": "//lh3.googleusercontent.com/rTvnquqc3Jc8qpg3hjwjqa2xphjlRZbYqtbacw1KTJRM3PIycItWj_nE60_kNze1f2qImxtnWrmysovMjqIEdXme",
+                "width": 848,
+                "state": "image 9ca4b5669b5311c4a5d404137b535ceafee3d439 was uploaded",
+                "version": 1,
+                "focal_y": 50,
+                "focal_x": 50,
+                "key": "9ca4b5669b5311c4a5d404137b535ceafee3d439",
+                "blur": "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",
+                "keywords": null,
+                "title": "",
+                "height": 565,
+                "ref": "",
+                "content_type": "image/jpeg"
+                },
+                "id": "9ca4b5669b5311c4a5d404137b535ceafee3d439"
+                },
+                "type": "image",
+                "id": "bb885198-734e-929d-2b69-5691048e85eb"
+                },
+                {
+                "data": {
+                "text": "Secret codes that make critical police databases vulnerable to hackers are being peddled to private companies, a forensic probe has revealed.",
+                "html": "<p>Secret codes that make critical police databases vulnerable to hackers are being peddled to private companies, a forensic probe has revealed.<\/p>",
+                "clean": "<p>Secret codes that make critical police databases vulnerable to hackers are being peddled to private companies, a forensic probe has revealed.<\/p>"
+                },
+                "type": "text",
+                "id": "d81abf25-9b80-4722-6b63-a6c7ad2e19b3"
+                },
+                {
+                "data": {
+                "image": {
+                "palette": [
+                            "#e9bfa5",
+                            "#402820",
+                            "#160706",
+                            "#0a0706",
+                            "#030202"
+                            ],
+                "description": "Trish Richardson.",
+                "created": 1526575549000,
+                "blob_path": "/times_select_cosmos_images/2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+                "blob_key": "AMIfv96VOfs_8GB8FHY9m0C695u0HQ7iZIHAF7xr3dT10fIpq3QfdjGRonvcviOiHBPPrBpRsot87IgW5iQ5I0-uJlJamf9k4IUeQVoMZGDhkUSzulcdvhzAfKKa2E9xiQVUtsfBt7c-8A5qhA6-FLW8S7SM_FboEzThH58FbOGvNYhpL1BjaS7Jr0cggSFlCuOxZTbGGUDx",
+                "average": "#523f35",
+                "author": "",
+                "filename": "2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+                "filepath": "//lh3.googleusercontent.com/GhA8daHle4xfNd38qoepxkd-qFYXv017_XTLOE-Wt07yU_Qtjtu0XJrS4RtQc5jbdquZvdZfHJqxi-AvvsymcIA",
+                "width": 512,
+                "state": "image 2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619 was uploaded",
+                "version": 1,
+                "focal_y": 50,
+                "focal_x": 50,
+                "key": "2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619",
+                "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQCAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4YHh4eHh4eHh4eFh0eHh4eHh4eHh4eHh4eHv/AABEIABgAEAMBIgACEQEDEQH/xAAZAAABBQAAAAAAAAAAAAAAAAAHAAQFBgj/xAApEAABAgUDAwMFAAAAAAAAAAABAgMEBQYRIQAHEwgSIkFRUhQjMTI0/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAAwQRIRL/2gAMAwEAAhEDEQA/AM77J0hKd7dwpXI40xLcA6VmLdaV9whLRUeMWOSR7HGdSvUBtU308TFpUvmapjKYj+Z59rifv5YUBhQsg+Ytk/gWy86baZqCpa3hagkb7EMJdEiId5We4dirp7LAgeSS6PTCVH2BNnVjT0LuXKZEtpajNXYv6ODYQQlBLiQp1S1EZCQhJx8h6X0F7tXeQZUrpVsf0RBNXM7qTpQraElFPzlyXGEkMJCtuQyGnURCe1alqdbWCnv5lvWJyAcEA6otU7kVjuO/LzUk6ejmoIr4kpZaZUlDhHIkFtCf2CQDe4NgDjGlpa3igNUrkd1DZJK2MoPNz//Z",
+                "keywords": null,
+                "title": "",
+                "height": 768,
+                "ref": "",
+                "content_type": "image/jpeg"
+                },
+                "float": "right",
+                "id": "2c8ebdffe5fc7f4e6bcb76ce7ee826822224f619"
+                },
+                "type": "image",
+                "id": "79b871a7-6f9e-6c11-db34-53b51024b9b6"
+                },
+                {
+                "data": {
+                "text": "IT investigator Trish Richardson made this discovery while looking into the alleged theft of computer systems and intellectual property belonging to a company contracted by the police.\nRichardson stumbled across an offer to procure software source codes for firearm management systems – identical to those used by the police. The source codes are a set of instructions that are used for computer programming.\n“Giving the source code to someone is the same as giving a criminal the master key to a safe. If the source code relates to the police firearm system you would also know where every single police firearm in the country is all the time,” a police cyber crimes source told Times Select.",
+                "html": "<p>IT investigator Trish Richardson made this discovery while looking into the alleged theft of computer systems and intellectual property belonging to a company contracted by the police.<\/p><p>Richardson stumbled across an offer to procure software source codes for firearm management systems&nbsp;– identical to those used by the police. The source codes are a set of instructions that are used for computer programming.<\/p><p>“Giving the source code to someone is the same as giving a criminal the master key to a safe. If the source code relates to the police firearm system you would also know where every single police firearm in the country is all the time,” a police cyber crimes source told Times Select.<\/p>"
+                },
+                "type": "text",
+                "id": "900966d6-575e-d46b-92b8-5175ba2a2c4f"
+                },
+                {
+                "data": {
+                "quote": "Giving the source code to someone is the same as giving a criminal the master key to a safe.&nbsp;",
+                "float": "left"
+                },
+                "type": "quote",
+                "id": "ad61fabe-fc75-9a99-1871-0cf342cf2ab1"
+                },
+                {
+                "data": {
+                "text": "These codes are the blueprints to potentially critical police databases and systems, and include those used to track SAPS firearms across the country.\nThe codes do not contain the actual information inside databases, but they can provide information on the database’s layout and where the information is stored.\nPolice cyber crime officers and firearm legislation experts say hackers can use these codes to gain access to the data. They warn that, once inside secure police systems, other systems can also potentially be accessed, including the Central Firearms Registry, which contains details on every single gun owner in the country.\nRichardson says she discovered the codes were for sale while conducting an investigation for IT solutions company FACTT, which sold the police various computer systems.",
+                "html": "<p>These codes are the blueprints to potentially critical police databases and systems, and include those used to track SAPS firearms across the country.<\/p>\n<p>The codes do not contain the actual information inside databases, but they can provide information on the database&rsquo;s layout and where the information is stored.<\/p>\n<p>Police cyber crime officers and firearm legislation experts say hackers can use these codes to gain access to the data.<br /> They warn that, once inside secure police systems, other systems can also potentially be accessed, including the Central Firearms Registry, which contains details on every single gun owner in the country.<\/p>\n<p>Richardson says she discovered the codes were for sale while conducting an investigation for IT solutions company FACTT, which sold the police various computer systems.<\/p>",
+                "clean": "<p>These codes are the blueprints to potentially critical police databases and systems, and include those used to track SAPS firearms across the country.<\/p>\n<p>The codes do not contain the actual information inside databases, but they can provide information on the database’s layout and where the information is stored.<\/p>\n<p>Police cyber crime officers and firearm legislation experts say hackers can use these codes to gain access to the data.<br> They warn that, once inside secure police systems, other systems can also potentially be accessed, including the Central Firearms Registry, which contains details on every single gun owner in the country.<\/p>\n<p>Richardson says she discovered the codes were for sale while conducting an investigation for IT solutions company FACTT, which sold the police various computer systems.<\/p>"
+                },
+                "type": "text",
+                "id": "fb892803-a54c-92e3-e6b0-40d815bd8413"
+                },
+                {
+                "data": {
+                "url": "https://select.timeslive.co.za/news/2018-05-03-legal-spat-could-shut-down-the-entire-police-service/",
+                "meta": {
+                "description": "Intellectual property rights dispute could result in shutdown of vital forensic systems",
+                "title": "Legal spat could shut down the entire police service",
+                "url": "https://select.timeslive.co.za/news/2018-05-03-legal-spat-could-shut-down-the-entire-police-service/",
+                "thumbnail_width": 847,
+                "html": "<div class=\"iframely-embed\"><div class=\"iframely-responsive\" style=\"padding-bottom: 66.7067%; padding-top: 120px;\"><a href=\"https://select.timeslive.co.za/news/2018-05-03-legal-spat-could-shut-down-the-entire-police-service/\" data-iframely-url=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fselect.timeslive.co.za%2Fnews%2F2018-05-03-legal-spat-could-shut-down-the-entire-police-service%2F&amp;key=ce5765a69808a231f3c0cc82724515f9\">Legal spat could shut down the entire police service<\/a><\/div><\/div><script async src=\"//cdn.iframe.ly/embed.js\" charset=\"utf-8\"><\/script>",
+                "version": "1.0",
+                "thumbnail_height": 565,
+                "thumbnail_url": "https://lh3.googleusercontent.com/tTLdfzHQWHJL6WnlEewv6Zt0cujD41D-IFDHs1q6qJFDQK71fysM_HIacB5A22JBLxfd7Vbo1JiwIDfYrvqP8VU=s1000",
+                "type": "rich"
+                }
+                },
+                "type": "iframely",
+                "id": "409cdabe-9967-9680-9fe6-b360fc1ea6b7"
+                },
+                {
+                "data": {
+                "text": "The person who offered access to the codes was Jerenique Bayard, a director of the Centurion IT solutions company, Intsika-IT.  Bayard was involved in another company, Unisys Africa, which won a computer software supply tender with the SA Police Service in the early 2000s. Unisys Africa was the head of a consortium that included FACTT and IT solutions company Forensic Data Analysis (FDA).\nBayard last month offered the source codes to Richardson in an e-mail, which Times Select has seen. This was at the same time that FDA was shutting down several of the police’s computer systems over a pay dispute.",
+                "html": "<p>The person who offered access to the codes was Jerenique Bayard, a director of the Centurion IT solutions company, Intsika-IT. &nbsp;Bayard was involved in another company, Unisys Africa, which won a computer software supply tender with the SA Police Service in the early 2000s. Unisys Africa was the head of a consortium that included FACTT and IT solutions company Forensic Data Analysis (FDA).<\/p>\n<p>Bayard last month offered the source codes to Richardson in an e-mail, which Times Select has seen. This was at the same time that FDA was shutting down several of the police&rsquo;s computer systems over a pay dispute.<\/p>",
+                "clean": "<p>The person who offered access to the codes was Jerenique Bayard, a director of the Centurion IT solutions company, Intsika-IT. &nbsp;Bayard was involved in another company, Unisys Africa, which won a computer software supply tender with the SA Police Service in the early 2000s. Unisys Africa was the head of a consortium that included FACTT and IT solutions company Forensic Data Analysis (FDA).<\/p>\n<p>Bayard last month offered the source codes to Richardson in an e-mail, which Times Select has seen. This was at the same time that FDA was shutting down several of the police’s computer systems over a pay dispute.<\/p>"
+                },
+                "type": "text",
+                "id": "292ad9df-17c2-4568-e37a-b6f02633ef82"
+                },
+                {
+                "data": {
+                "image": {
+                "palette": [
+                            "#ffffff",
+                            "#feffff",
+                            "#fafafb",
+                            "#fefffa",
+                            "#b1b1b8"
+                            ],
+                "description": "The email that was sent offering the source codes.",
+                "created": 1526572674000,
+                "blob_path": "/times_select_cosmos_images/e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+                "blob_key": "AMIfv97N3kpqw4gbT2QutbA3c0Mej_hHX5O7bVSlfkIPoK_sUzIktqkGLsiouyNDRq3i9MKcTuQhOUAZcE8J_YMp7mT7AWG7uPiOFFGDbeQb4An1I3IHmKc3SO9Q-cEEps1z9Xx-R6J-egqTv-8MrlbKhZB-E34sybk5ehv3-4JDe0iHzKSh4WRIzpIlyHeWcgfzmuhzfIlV",
+                "average": "#f7f7f7",
+                "author": "Screenshot",
+                "filename": "e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+                "filepath": "//lh3.googleusercontent.com/_neCDuq56vz0KD_Llk9bBjsVMRuLNeOgEcPpiXu5QrP38jjO8MZTak2T9eWvD-g4SJSZiEwjz7-18Bu4AYxU9Ac",
+                "width": 518,
+                "state": "image e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee was uploaded",
+                "version": 1,
+                "focal_y": 50,
+                "focal_x": 50,
+                "key": "e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee",
+                "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwUExQaFREdGCEYGh0lHx0fFRQeJCIeJSUlJRUBBQUFBgYGDgYICh4UEQ4SEhIeHhUeEh4SHhIeEhIVHhUeFRUSFRISFRUeEhIeEhISEhISEhISEhISEhIVEhIVEv/AABEIAAkAEAMBIgACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBQgA/8QAIBAAAgAFBQEAAAAAAAAAAAAAAQIAAwQREjRhcpGxE//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCtKAU88NhVWKsQVxtbuGctpSrj9Q25YRqbTSuA8gkB/9k=",
+                "keywords": null,
+                "title": "",
+                "height": 278,
+                "ref": "",
+                "content_type": "image/jpeg"
+                },
+                "id": "e46eac3eae1b0f6735ecd9ddfe4eef9e366707ee"
+                },
+                "type": "image",
+                "id": "40c0ae8a-b493-eebc-7203-877822b4905f"
+                },
+                {
+                "data": {
+                "text": "Bayard told Times Select he had the necessary permission to provide the source code to a third party.\n“I was procuring the solution from the owner and authorised distributor. The commercial agreements are confidential.”\nBut Richardson said Bayard did not have permission to sell the source code. She warned the potential threat posed to national security was huge, “especially as the police still use the same system”.\n“With source codes you can install malware (harmful software) onto systems without the customer ever knowing.”",
+                "html": "<p>Bayard told Times Select he had the necessary permission to provide the source code to a third party.<\/p><p>“I was procuring the solution from the owner and authorised distributor. The commercial agreements are confidential.”<\/p><p>But Richardson said Bayard did not have permission to sell the source code. She warned the potential threat posed to national security was huge, “especially as the police still use the same system”.<\/p><p>“With source codes you can install malware (harmful software) onto systems without the customer ever knowing.”<\/p>"
+                },
+                "type": "text",
+                "id": "7f375cb4-6ded-dbb2-838c-e9c29b5a397d"
+                },
+                {
+                "data": {
+                "text": "Times Select has learnt that, on Monday, Richardson met with IPID’s investigations head, Matthew Sesoko, and senior Hawks cyber crimes officers over Bayard’s source codes offer. Both IPID and the police declined to comment.\nBayard insisted the source codes were programming codes and did not contain any client data or “classified documents”.\n“It is inaccurate to say I have offered to sell source code that is key to sensitive police databases. The SAPS data is secured by SAPS and SITA [South African Information Technology Agency].”\nBayard said to date he had not sold the source code to anyone and had not quoted anyone a price.",
+                "html": "<p>Times Select has learnt that, on Monday, Richardson met with IPID&rsquo;s investigations head, Matthew Sesoko, and senior Hawks cyber crimes officers over Bayard&rsquo;s source codes offer. Both IPID and the police declined to comment.<\/p>\n<p>Bayard insisted the source codes were programming codes and did not contain any client data or &ldquo;classified documents&rdquo;.<\/p>\n<p>&ldquo;It is inaccurate to say I have offered to sell source code that is key to sensitive police databases. The SAPS data is secured by SAPS and SITA [South African Information Technology Agency].&rdquo;<\/p>\n<p>Bayard said to date he had not sold the source code to anyone and had not quoted anyone a price.<\/p>",
+                "clean": "<p>Times Select has learnt that, on Monday, Richardson met with IPID’s investigations head, Matthew Sesoko, and senior Hawks cyber crimes officers over Bayard’s source codes offer. Both IPID and the police declined to comment.<\/p>\n<p>Bayard insisted the source codes were programming codes and did not contain any client data or “classified documents”.<\/p>\n<p>“It is inaccurate to say I have offered to sell source code that is key to sensitive police databases. The SAPS data is secured by SAPS and SITA [South African Information Technology Agency].”<\/p>\n<p>Bayard said to date he had not sold the source code to anyone and had not quoted anyone a price.<\/p>"
+                },
+                "type": "text",
+                "id": "31fe1291-c76b-fee7-2051-23c5c69a1e41"
+                },
+                {
+                "data": {
+                "url": "https://select.timeslive.co.za/tsnewsletter",
+                "float": "right",
+                "meta": {
+                "description": "Here's how to subscribe to our email newsletter",
+                "title": "Get a new edition of Times Select in your inbox daily",
+                "url": "https://select.timeslive.co.za/tsnewsletter/",
+                "thumbnail_width": 1000,
+                "html": "<div class=\"iframely-embed\"><div class=\"iframely-responsive\" style=\"padding-bottom: 66.4011%; padding-top: 120px;\"><a href=\"https://select.timeslive.co.za/tsnewsletter/\" data-iframely-url=\"//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fselect.timeslive.co.za%2Ftsnewsletter&amp;key=ce5765a69808a231f3c0cc82724515f9\">Get a new edition of Times Select in your inbox daily<\/a><\/div><\/div><script async src=\"//cdn.iframe.ly/embed.js\" charset=\"utf-8\"><\/script>",
+                "version": "1.0",
+                "thumbnail_height": 664,
+                "thumbnail_url": "https://lh3.googleusercontent.com/EWfbQeyB_lft0hpnAHErFEF-a9Ka_o0vJ4kKs_k_1DeHXvXdY5HQ1l1M5Tt9HSJqsllh_8Zp5QAK4gCwuqFsZCI=s1000",
+                "type": "rich"
+                }
+                },
+                "type": "iframely",
+                "id": "48315f31-908d-9352-6a1b-e4a00a2d350c"
+                },
+                {
+                "data": {
+                "text": "SITA chief executive Sethumo Mohapi said while orginal source codes did not contain data, “it gave you the information on how to manipulate the data”.\nHe said with a source code, hackers could then create “object codes” which would then allow one access to the data.\nIn 2013, hackers stole the names and personal details of nearly 16,000 whistle-blowers and crime victims from the police website.\nAttorney Martin Hood, who represents South Africa’s firearm industry, said once you have access to one police system, you potentially gain access to all their systems, as you are behind their IT security firewalls.\nBytes Technology, which took over Unisys Africa, distanced itself from the leaked source codes, saying Bayard had never been employed by Bytes.",
+                "html": "<p>SITA chief executive Sethumo Mohapi said while orginal source codes did not contain data, &ldquo;it gave you the information on how to manipulate the data&rdquo;.<\/p>\n<p>He said with a source code, hackers could then create &ldquo;object codes&rdquo; which would then allow one access to the data.<\/p>\n<p>In 2013, hackers stole the names and personal details of nearly 16,000 whistle-blowers and crime victims from the police website.<\/p>\n<p>Attorney Martin Hood, who represents South Africa&rsquo;s firearm industry, said once you have access to one police system, you potentially gain access to all their systems, as you are behind their IT security firewalls.<\/p>\n<p>Bytes Technology, which took over Unisys Africa, distanced itself from the leaked source codes, saying Bayard had never been employed by Bytes.<\/p>",
+                "clean": "<p>SITA chief executive Sethumo Mohapi said while orginal source codes did not contain data, “it gave you the information on how to manipulate the data”.<\/p>\n<p>He said with a source code, hackers could then create “object codes” which would then allow one access to the data.<\/p>\n<p>In 2013, hackers stole the names and personal details of nearly 16,000 whistle-blowers and crime victims from the police website.<\/p>\n<p>Attorney Martin Hood, who represents South Africa’s firearm industry, said once you have access to one police system, you potentially gain access to all their systems, as you are behind their IT security firewalls.<\/p>\n<p>Bytes Technology, which took over Unisys Africa, distanced itself from the leaked source codes, saying Bayard had never been employed by Bytes.<\/p>"
+                },
+                "type": "text",
+                "id": "48389006-d24f-3751-a6bb-cc6550a6b1a5"
+                },
+                {
+                "data": {
+                "image": {
+                "palette": [
+                            "#9c6954",
+                            "#ebcfb9",
+                            "#aa3838",
+                            "#382620",
+                            "#cf9381"
+                            ],
+                "description": "This picture, which was presented in parliament, put Trish Richardson on Bayard's trail. Keith Keating (left) and Jerneque Bayard (right).",
+                "created": 1526570525000,
+                "blob_path": "/times_select_cosmos_images/305fe2a6ef9e4cd432cc434d572149733c767721",
+                "blob_key": "AMIfv97eifxcLLPYcUF69wLbMiBqlQCT2R_7OuDDCE2yYL-whbAIv-KbMV-w2uJ3PQ6nRLhRE3ZrQ-cCu4n7OJM9aFcXHo-H0inHZwt6S6JWLqnouYJ5Uwx_EMZ8sG4omF1tc-U_uiCWFgUC5wHMTr8VL0eIzvRe0oOVAxhuFqLipxE0ZZHxUuKAB_BuzUN_QC61ewEwTIQz",
+                "average": "#985f53",
+                "author": "",
+                "filename": "305fe2a6ef9e4cd432cc434d572149733c767721",
+                "filepath": "//lh3.googleusercontent.com/YhPIRxlH6pkRpt6yJ1pDSDG-f5pWkNhWKM2Jd9tRWZZTUd6tI63hfL522JUTEIRdjX8hIPZj_UqBRcJoN8cB-Bc",
+                "width": 491,
+                "state": "image 305fe2a6ef9e4cd432cc434d572149733c767721 was uploaded",
+                "version": 1,
+                "focal_y": 50,
+                "focal_x": 50,
+                "key": "305fe2a6ef9e4cd432cc434d572149733c767721",
+                "blur": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAEEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXEw0aFRERGCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHv/AABEIAA4AEAMBIgACEQEDEQH/xAAWAAADAAAAAAAAAAAAAAAAAAAFBgf/xAAkEAACAQMCBgMAAAAAAAAAAAABAgMEERIFIQAGBwgTMRQyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAYF/8QAIREAAgAEBwEAAAAAAAAAAAAAAREDBBIhAkFRgZHR8AD/2gAMAwEAAhEDEQA/ABfJr9QKDpbqVJqlXpk+p16SJF4MRN48Tir7ALIr5WPq2Nje54S+V27k3q6p5H5iqooY/DjICpRyGYMRHfJAFa53UZANuV4s+q9PulWh18pimqZHNMZMPIQgCmK/u9/ve1vza1hwF5kpO1yojimqNHeMIkij45RZJ5SLLm5U4oCGOyn0Lg3No1EM4KiAj7b5fIATszhgMjRX5aeQduv/2Q==",
+                "keywords": null,
+                "title": "",
+                "height": 420,
+                "content_type": "image/png"
+                },
+                "id": "305fe2a6ef9e4cd432cc434d572149733c767721"
+                },
+                "type": "image",
+                "id": "59f93cf9-5f6e-ac9e-e80a-06fc43ddfaa7"
+                },
+                {
+                "data": {
+                "description": "<p>Richardson says she discovered the codes were for sale while conducting an investigation for FACTT. Her investigation was into FDA and its owner, controversial businessman Keith Keating, alleged theft and misuse of FACTT's computer software programs and intellectual property, which the police use to operate their IT systems.<\/p>\n<p>Keating is currently under investigation by the Independent Police Investigative Directorate (IPID) and the Hawks over allegedly irregularly securing forensic equipment supply and maintence contracts worth multi-million rands from the police.<\/p>\n<p>Richardson said when the FDA matter around its irregular contracts with the police was raised in parliament by the standing committee on public accounts, a photograph of Keating at the UK&rsquo;s Old Trafford stadium was presented.<\/p>\n<p>\"Bayard was in it. I became curious about who he was.&rdquo;<\/p>\n<p>Suspecting he may have illicit access to FACTT's systems, she connected with him and inquired whether he could access firearm management systems.<\/p>\n<p>In e-mails to Richardson, Bayard said the system he could access was the &ldquo;one currently being used at SAPS\".<\/p>\n<p>\"Let's meet to discuss. I can get you the source code as part of the deal to buy out the system and IP [intellectual property] etc.\"<\/p>\n<p>Keating disputed that the SAPS firearm and evidence management systems were at risk.<\/p>\n<p>He said FDA owned the intellectual property of several police systems and their computer source codes.<\/p>\n<p>&ldquo;We do not sell source codes. Bayard, who has never worked for us, is merely offering to sell the licence to use [specific systems] which FDA gave him the right to do.&rdquo;<\/p>\n<p>He said the dispute between FDA and FACTT was over an issue of the use of alleged &ldquo;not for resale patent codes&rdquo; which were unrelated to the source coudes.<\/p>\n<p>&ldquo;The patent codes are not used in the SAPS firearm and evidence management systems.&rdquo;<\/p>",
+                "title": "How the discovery was made"
+                },
+                "type": "infoblock",
+                "id": "8b5507fb-8d25-52a8-7252-63d9e4013f73"
+                }
+                ],
+    "show_author_card": true,
+    "sections": [
+                 {
+                 "publication": "times-select",
+                 "section": "news",
+                 "subsection": null,
+                 "primary": true
+                 }
+                 ],
+    "subsection": null,
+    "status": "published",
+    "image_header": null,
+    "updated": null,
+    "location_geo": null,
+    "parent": null,
+    "tags": [],
+    "count_blockquote": 1,
+    "count_video": 0,
+    "plain_text": "Secret codes that make critical police databases vulnerable to hackers are being peddled to private companies, a forensic probe has revealed.IT investigator Trish Richardson made this discovery while looking into the alleged theft of computer systems and intellectual property belonging to a company contracted by the police.\nRichardson stumbled across an offer to procure software source codes for firearm management systems – identical to those used by the police. The source codes are a set of instructions that are used for computer programming.\n“Giving the source code to someone is the same as giving a criminal the master key to a safe. If the source code relates to the police firearm system you would also know where every single police firearm in the country is all the time,” a police cyber crimes source told Times Select.These codes are the blueprints to potentially critical police databases and systems, and include those used to track SAPS firearms across the country.\nThe codes do not contain the actual information inside databases, but they can provide information on the database’s layout and where the information is stored.\nPolice cyber crime officers and firearm legislation experts say hackers can use these codes to gain access to the data. They warn that, once inside secure police systems, other systems can also potentially be accessed, including the Central Firearms Registry, which contains details on every single gun owner in the country.\nRichardson says she discovered the codes were for sale while conducting an investigation for IT solutions company FACTT, which sold the police various computer systems.The person who offered access to the codes was Jerenique Bayard, a director of the Centurion IT solutions company, Intsika-IT.  Bayard was involved in another company, Unisys Africa, which won a computer software supply tender with the SA Police Service in the early 2000s. Unisys Africa was the head of a consortium that included FACTT and IT solutions company Forensic Data Analysis (FDA).\nBayard last month offered the source codes to Richardson in an e-mail, which Times Select has seen. This was at the same time that FDA was shutting down several of the police’s computer systems over a pay dispute.Bayard told Times Select he had the necessary permission to provide the source code to a third party.\n“I was procuring the solution from the owner and authorised distributor. The commercial agreements are confidential.”\nBut Richardson said Bayard did not have permission to sell the source code. She warned the potential threat posed to national security was huge, “especially as the police still use the same system”.\n“With source codes you can install malware (harmful software) onto systems without the customer ever knowing.”Times Select has learnt that, on Monday, Richardson met with IPID’s investigations head, Matthew Sesoko, and senior Hawks cyber crimes officers over Bayard’s source codes offer. Both IPID and the police declined to comment.\nBayard insisted the source codes were programming codes and did not contain any client data or “classified documents”.\n“It is inaccurate to say I have offered to sell source code that is key to sensitive police databases. The SAPS data is secured by SAPS and SITA [South African Information Technology Agency].”\nBayard said to date he had not sold the source code to anyone and had not quoted anyone a price.SITA chief executive Sethumo Mohapi said while orginal source codes did not contain data, “it gave you the information on how to manipulate the data”.\nHe said with a source code, hackers could then create “object codes” which would then allow one access to the data.\nIn 2013, hackers stole the names and personal details of nearly 16,000 whistle-blowers and crime victims from the police website.\nAttorney Martin Hood, who represents South Africa’s firearm industry, said once you have access to one police system, you potentially gain access to all their systems, as you are behind their IT security firewalls.\nBytes Technology, which took over Unisys Africa, distanced itself from the leaked source codes, saying Bayard had never been employed by Bytes.",
+    "ad_tag_custom": null,
+    "title_text": "Exclusive: Top-secret police codes up for sale",
+    "title2": null,
+    "title3": "Cyber crime experts warn this could expose critical cop systems to hackers",
+    "count_image": 4,
+    "title_section_text": "Exclusive: Top-secret police codes up for sale",
+    "content_type": "premium",
+    "count_infographic": 0,
+    "active": true,
+    "print_status": null,
+    "slug": "2018-05-18-exclusive-top-secret-police-codes-up-for-sale",
+    "editors_choice": false,
+    "groups": [],
+    "title_custom": null,
+    "count_audio": 0,
+    "title3_text": "Cyber crime experts warn this could expose critical cop systems to hackers",
+    "authors": [],
+    "notes": null,
+    "author": {
+        "category": "journalist",
+        "bio": null,
+        "slug": "graeme-hosken",
+        "tel": null,
+        "name": "Graeme Hosken",
+        "created": 1517838306000,
+        "image": {
+            "palette": [
+                        "#f6f5f5",
+                        "#967564",
+                        "#f7e7d8",
+                        "#efe6d5",
+                        "#e7e6e6"
+                        ],
+            "filepath": "//lh3.googleusercontent.com/qcRxy9EgIv-1mChYyIeHDYOHgtFdileijTHPIe1iWd0m2i_QJYG9e2ltCq7DpNFWEf6oVkbEDi98DF2LWtTH1LpE",
+            "created": 1517838306000,
+            "blob_path": "/times_select_cosmos_images/ad1337325e301f675e56de21b2947b3dc7198a92",
+            "blob_key": "AMIfv97clH5rHtj36qWdGAc8_oZSs2mTNc0uxByooAPqIYO231ov7h0f38jLwCwij297b_mtLCzO-ask08MSkFicccaXz5meEcdeUgN3n1A8UmqSqEV5-tLa1CYXX4AWlA5UaYmgaHMuWHsux5Q3WNYGxdtlh4NfiDBBpENh8HoKFd-nFfE89BcmfrHVA1YbosMOTJ_0B6q2",
+            "average": "#cab7a7",
+            "author": "",
+            "filename": "ad1337325e301f675e56de21b2947b3dc7198a92",
+            "width": 1500,
+            "state": null,
+            "version": 1,
+            "focal_y": 50,
+            "focal_x": 50,
+            "content_type": "image/jpeg",
+            "blur": "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",
+            "keywords": [],
+            "title": "",
+            "height": 1500,
+            "description": ""
+        },
+        "title": "Journalist",
+        "email": null,
+        "state": null,
+        "version": 1,
+        "key": 5714468482842624,
+        "social": null,
+        "active": true,
+        "publication_key": "times-select"
+    },
+    "companies": [],
+    "modified": 1526577114000,
+    "summary": null,
+    "sensitive": false,
+    "synopsis": "Cyber crime experts warn this could expose critical cop systems to hackers",
+    "slug_old": [],
+    "image_thumbnail": null,
+    "read_duration": 216,
+    "published": 1526612400000,
+    "source_id": null,
+    "location_keywords": null,
+    "intro_text": "",
+    "edit_url": "/news/6200429704642560/",
+    "external_url": null
+}

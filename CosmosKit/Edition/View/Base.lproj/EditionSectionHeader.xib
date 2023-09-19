@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" layoutMarginsFollowReadableWidth="YES" id="iN0-l3-epB" customClass="EditionSectionHeader" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="97"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u83-d2-BpU">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="97"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Opr-qD-pvC" customClass="EditionListSectionLabel" customModule="CosmosKit" customModuleProvider="target">
+                            <rect key="frame" x="16" y="10" width="288" height="42.5"/>
+                            <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
+                            <color key="textColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="751" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="peb-B2-ocY" customClass="EditionListSectionBylineLabel" customModule="CosmosKit">
+                            <rect key="frame" x="16" y="52.5" width="288" height="14"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dnw-C2-8yZ" customClass="BodyLabel" customModule="CosmosKit" customModuleProvider="target">
+                            <rect key="frame" x="16" y="66.5" width="288" height="20.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="Dnw-C2-8yZ" secondAttribute="bottom" constant="10" id="Gq4-oa-2MG"/>
+                        <constraint firstItem="Opr-qD-pvC" firstAttribute="leading" secondItem="u83-d2-BpU" secondAttribute="leading" constant="16" id="VHf-7M-dow"/>
+                        <constraint firstItem="Dnw-C2-8yZ" firstAttribute="leading" secondItem="peb-B2-ocY" secondAttribute="leading" id="Zne-p6-DcE"/>
+                        <constraint firstItem="Dnw-C2-8yZ" firstAttribute="trailing" secondItem="peb-B2-ocY" secondAttribute="trailing" id="e8H-KM-MtD"/>
+                        <constraint firstItem="peb-B2-ocY" firstAttribute="leading" secondItem="Opr-qD-pvC" secondAttribute="leading" id="eTV-SD-Ufz"/>
+                        <constraint firstItem="peb-B2-ocY" firstAttribute="top" secondItem="Opr-qD-pvC" secondAttribute="bottom" id="fWy-Dd-rMJ"/>
+                        <constraint firstItem="Opr-qD-pvC" firstAttribute="top" secondItem="u83-d2-BpU" secondAttribute="top" constant="10" id="gXm-g0-Ouf"/>
+                        <constraint firstAttribute="trailing" secondItem="Opr-qD-pvC" secondAttribute="trailing" constant="16" id="iuC-Cy-diq"/>
+                        <constraint firstItem="Dnw-C2-8yZ" firstAttribute="top" secondItem="peb-B2-ocY" secondAttribute="bottom" id="rBk-1P-63D"/>
+                        <constraint firstItem="peb-B2-ocY" firstAttribute="trailing" secondItem="Opr-qD-pvC" secondAttribute="trailing" id="v7x-Yq-okN"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <constraints>
+                <constraint firstAttribute="trailingMargin" secondItem="u83-d2-BpU" secondAttribute="trailing" constant="-16" id="0AS-hB-W5v"/>
+                <constraint firstItem="u83-d2-BpU" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leadingMargin" constant="-16" id="4kO-f6-qMW"/>
+                <constraint firstItem="u83-d2-BpU" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="CBz-0Z-Sqq"/>
+                <constraint firstAttribute="bottom" secondItem="u83-d2-BpU" secondAttribute="bottom" id="RQ7-jp-YSA"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backgroundContainer" destination="u83-d2-BpU" id="5nc-Ii-1tf"/>
+                <outlet property="subSubTitle" destination="Dnw-C2-8yZ" id="D8s-jo-FmH"/>
+                <outlet property="subTitle" destination="peb-B2-ocY" id="XLJ-7t-zSH"/>
+                <outlet property="title" destination="Opr-qD-pvC" id="99Q-39-ul5"/>
+            </connections>
+            <point key="canvasLocation" x="49" y="-245.5"/>
+        </view>
+    </objects>
+</document>

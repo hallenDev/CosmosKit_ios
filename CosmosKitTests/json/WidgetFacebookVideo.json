@@ -1,0 +1,52 @@
+{
+   "type":"facebook_video",
+   "data":{
+      "url":"https://www.facebook.com/facebook/videos/1571341899583087",
+      "meta":{
+         "provider_url":"https://www.facebook.com",
+         "success":true,
+         "author_name":"Diply Trending",
+         "height":280,
+         "width":500,
+         "html":"<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script><div class=\"fb-video\" data-href=\"https://www.facebook.com/facebook/videos/1571341899583087\"><blockquote cite=\"https://www.facebook.com/diplytrending/videos/1571341899583087/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/diplytrending/videos/1571341899583087/\"></a><p>This cat looks so bored! :3 :3 :3 #diply\n- via JukinMedia</p>Posted by <a href=\"https://www.facebook.com/diplytrending/\">Diply Trending</a> on Tuesday, March 1, 2016</blockquote></div>",
+         "author_url":"https://www.facebook.com/diplytrending/",
+         "provider_name":"Facebook"
+      },
+      "listing":{
+         "aggregate":false,
+         "image":{
+            "palette":[
+               "#7a5d39",
+               "#decebc",
+               "#534b3d",
+               "#31200f",
+               "#9b8763"
+            ],
+            "description":"",
+            "created":1500357789000,
+            "blob_path":"/cosmos_stage_qa_images/421987176894fa57dc51247290aa7633b0f4ffa4",
+            "blob_key":"AMIfv96l2mDcf7FTm7Q4EqpDMgiQtXWGVsuPcCDBEro3-TN6yXLegVkoQqLvdSU4brUwU-3H61MOlqfKYcGycF18jWtWMguIdgo_aEvz_5Hault92uc5w3uST0K6PDp-MbEgRJzef7g4H7_ZMAde8CC_aixMKYnpQ3FZNtfELmj5cM0NT-jw7zLFKKEZm9RNe1Ah8FUCisox",
+            "average":"#85735b",
+            "author":"",
+            "filename":"421987176894fa57dc51247290aa7633b0f4ffa4",
+            "filepath":"//lh3.googleusercontent.com/fWQeTg1Pmut6l3sUcbe8PnqH1mO3x9eV5VdOn7a4j_lxzrFlMWn-zOws0awCl49nW-EGqUNxfj6aSabGPu7X7oTDZCDK",
+            "width":227,
+            "state":"image 421987176894fa57dc51247290aa7633b0f4ffa4 was uploaded",
+            "version":1,
+            "focal_y":50,
+            "focal_x":50,
+            "key":"421987176894fa57dc51247290aa7633b0f4ffa4",
+            "blur":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAUEAwEEBAUFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERHCEYGh0dHx8fExciJCIeJBweHx4BBQUFBwYHDggIDh4UERQeHhIeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHhUeHh4eHhUeHh4eHh4eHh4eHh4eHhIeHv/AABEIAAkAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBQP/xAAkEAABAgUDBQEAAAAAAAAAAAACAQMEBQYHEQAhchI2QbGzMf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQEAAgMAAAAAAAAAAAAAAAABESEAAgP/2gAMAwEAAhEDEQA/AM73UvEFX1TxbkRDtszBkeowLYCQUEs5TAoq+d1xvjUq2hzGpWrvtymSzQZTCoiC+Am5DuuouFQFUU36f3GkVp2fWHA/WgWn7BsXxL6LoiHo24jAa1n/2Q==",
+            "keywords":[
+
+            ],
+            "title":"This cat looks so bored! :3 :3 :3 #diply\n- via JukinMedia",
+            "height":128,
+            "content_type":"image/jpeg"
+         },
+         "description":null,
+         "author":null
+      }
+   },
+   "id":"39edeeef-0d14-5c2d-d4c7-65d52788db06"
+}

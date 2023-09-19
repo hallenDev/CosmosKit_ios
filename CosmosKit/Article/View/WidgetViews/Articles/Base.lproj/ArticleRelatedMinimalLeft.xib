@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rtx-3i-A1j" customClass="ArticleRelated" customModule="CosmosKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="116"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="fOj-9F-c89">
+                    <rect key="frame" x="16" y="8" width="100" height="100"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="100" id="g8h-sF-U9b"/>
+                        <constraint firstAttribute="height" constant="100" id="u4Q-u7-BJd"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aU2-ih-PaV" customClass="RelatedArticleSection" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="124" y="8" width="235" height="14.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption1"/>
+                    <color key="textColor" systemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qeO-h9-F6o" customClass="RelatedArticleTitle" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="124" y="23.5" width="235" height="26.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
+                    <color key="textColor" systemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Byb-pz-q7k" userLabel="Author" customClass="RelatedArticleAuthor" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="124" y="55" width="235" height="13.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption2"/>
+                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5In-dl-OTy" customClass="RelatedArticleReadTime" customModule="CosmosKit" customModuleProvider="target">
+                    <rect key="frame" x="124" y="69.5" width="235" height="13.5"/>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleCaption2"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="KyZ-FU-5KA"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="qeO-h9-F6o" firstAttribute="leading" secondItem="fOj-9F-c89" secondAttribute="trailing" constant="8" id="9qm-4N-rFr"/>
+                <constraint firstAttribute="bottom" secondItem="fOj-9F-c89" secondAttribute="bottom" constant="8" id="B2f-zY-UFL"/>
+                <constraint firstItem="KyZ-FU-5KA" firstAttribute="trailing" secondItem="Byb-pz-q7k" secondAttribute="trailing" constant="16" id="CSH-A9-xsi"/>
+                <constraint firstItem="Byb-pz-q7k" firstAttribute="leading" secondItem="fOj-9F-c89" secondAttribute="trailing" constant="8" id="Chy-Et-bPF"/>
+                <constraint firstItem="KyZ-FU-5KA" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="5In-dl-OTy" secondAttribute="bottom" constant="8" id="Dfr-Pf-vCS"/>
+                <constraint firstItem="aU2-ih-PaV" firstAttribute="leading" secondItem="fOj-9F-c89" secondAttribute="trailing" constant="8" id="G2n-Hb-kYs"/>
+                <constraint firstItem="qeO-h9-F6o" firstAttribute="top" secondItem="aU2-ih-PaV" secondAttribute="bottom" constant="1" id="KSN-i4-Ksc"/>
+                <constraint firstItem="fOj-9F-c89" firstAttribute="top" secondItem="Rtx-3i-A1j" secondAttribute="top" constant="8" id="ZiL-L4-45S"/>
+                <constraint firstItem="5In-dl-OTy" firstAttribute="leading" secondItem="fOj-9F-c89" secondAttribute="trailing" constant="8" id="eLm-7S-mC9"/>
+                <constraint firstItem="KyZ-FU-5KA" firstAttribute="trailing" secondItem="5In-dl-OTy" secondAttribute="trailing" constant="16" id="fln-Fu-YYR"/>
+                <constraint firstItem="fOj-9F-c89" firstAttribute="leading" secondItem="KyZ-FU-5KA" secondAttribute="leading" constant="16" id="hBP-p1-4Jj"/>
+                <constraint firstItem="aU2-ih-PaV" firstAttribute="top" secondItem="Rtx-3i-A1j" secondAttribute="top" constant="8" id="jIy-Xa-ROf"/>
+                <constraint firstItem="KyZ-FU-5KA" firstAttribute="trailing" secondItem="qeO-h9-F6o" secondAttribute="trailing" constant="16" id="mZ5-Gi-NVb"/>
+                <constraint firstItem="5In-dl-OTy" firstAttribute="top" secondItem="Byb-pz-q7k" secondAttribute="bottom" constant="1" id="ppP-Mb-eaI"/>
+                <constraint firstAttribute="height" constant="116" id="x3F-Sa-1u1"/>
+                <constraint firstItem="qeO-h9-F6o" firstAttribute="bottom" secondItem="Byb-pz-q7k" secondAttribute="top" constant="-5" id="z59-Lr-EmT"/>
+                <constraint firstItem="KyZ-FU-5KA" firstAttribute="trailing" secondItem="aU2-ih-PaV" secondAttribute="trailing" constant="16" id="zcu-pf-tFo"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="articleAuthor" destination="Byb-pz-q7k" id="MBe-VU-txh"/>
+                <outlet property="articleImage" destination="fOj-9F-c89" id="2Vc-T1-yaV"/>
+                <outlet property="articleReadTime" destination="5In-dl-OTy" id="IaT-nF-0Xc"/>
+                <outlet property="articleSection" destination="aU2-ih-PaV" id="Qbz-fy-15W"/>
+                <outlet property="articleTitle" destination="qeO-h9-F6o" id="dmH-Ud-csF"/>
+            </connections>
+            <point key="canvasLocation" x="138.40000000000001" y="-69.265367316341838"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="darkTextColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
